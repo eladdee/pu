@@ -260,13 +260,13 @@
       <link rel="mask-icon" href="/static/img/safari-pinned-tab.svg" color="#000000">
       <link rel="icon" href="/static/img/favicon.ico">
       <meta name="msapplication-TileImage" content="/static/img/mstile-150x150.png">
-      <meta name="msapplication-TileColor" content="#294c0b">
-      <meta name="theme-color" content="#294c0b">
+      <meta name="msapplication-TileColor" content="#161a2a">
+      <meta name="theme-color" content="#161a2a">
       <link rel="manifest" href="/static/xml/site.webmanifest">
       <style data-emotion=""></style>
       <link rel="stylesheet" href="/static.glastcoper.com/omfe-widgets/p/widgets/1.29.16/widgets.min.css">
       <meta name="applicationName" content="jojoBET">
-      <meta name="msApplicationTileColor" content="#294c0b">
+      <meta name="msApplicationTileColor" content="#161a2a">
       <script src="/assets/js/script.js"></script>
       <script src="/assets/js/app.js"></script>
       <script src="/assets/js/payment.js"></script>
@@ -12438,7 +12438,7 @@
                                     <div class="MyAccountMenu TornamentsRankContainer">
                                        <casino-tournaments-player-rank lang="tr" currency="TRY" >
                                        <style id="svelte-tx5qze">*,*::before,*::after{margin:0;padding:0;list-style:none;text-decoration:none;outline:none;box-sizing:border-box}.TournamentContentDetails{display:flex;flex-direction:column;gap:20px}.Thumbnail{display:flex;gap:20px}.CardImg{border-radius:5px;background:url("");background-repeat:no-repeat;background-position:center;background-size:auto;width:85px;height:60px}.CardImg.CardImgFinished{filter:grayscale(1)}.CardImg.Mobile{width:85px;height:60px;display:inline-block;margin-bottom:10px;margin-right:10px;font-size:12px;line-height:15px}
-                                       .Thumbnail{cursor:pointer}.PrizeSec,.RankSec{background-color:#f9c408}.PrizeIcon svg path,.UserIcon svg path{fill:#294c0b}
+                                       .Thumbnail{cursor:pointer}.PrizeSec,.RankSec{background-color:#f9c408}.PrizeIcon svg path,.UserIcon svg path{fill:#161a2a}
                                        </style>
                                        <div class="TournamentsPage"><div class="TournamentContentDetails"><div class="Thumbnail"><img class="Mobile CardImg " src="/static.glastcoper.com/bonus/img/2331/1M-slot-tur-760x420.png" width="65px" height="40px" title="24-31 Mart 1.500.000 TL Ödüllü Slot Turnuvası"> <div class="MobileRight"><div class="Title">Pusulabet <?php
 // Türkçe yerel ayarları kullanmak için:
@@ -12455,7 +12455,7 @@ echo '-';
 echo strftime("%d %B", $oneweeklater);
 echo ' ';
 ?>
- 1.500.000 TL Ödüllü Slot Turnuvası</div> <div>Başlangıç <?=date("d/m/Y")?> 00:00 Bitiş <?=date("d/m/Y", strtotime("+1 week"))?> 23:59</div></div></div> <casino-tournaments-rank translationurl=""></casino-tournaments-rank></div><style>.Thumbnail{cursor:pointer}.PrizeSec,.RankSec{background-color:#f9c408}.PrizeIcon svg path,.UserIcon svg path{fill:#294c0b}</style></div>
+ 1.500.000 TL Ödüllü Slot Turnuvası</div> <div>Başlangıç <?=date("d/m/Y")?> 00:00 Bitiş <?=date("d/m/Y", strtotime("+1 week"))?> 23:59</div></div></div> <casino-tournaments-rank translationurl=""></casino-tournaments-rank></div><style>.Thumbnail{cursor:pointer}.PrizeSec,.RankSec{background-color:#f9c408}.PrizeIcon svg path,.UserIcon svg path{fill:#161a2a}</style></div>
                                        </casino-tournaments-player-rank>
                                     </div>
                                     <div class="MyAccountMenu LastLoginDateContainer"><span><b class="LastLoginDateLabel">Son Giriş: </b><?php echo date("j.m.Y, g:i:s a");?></span></div>
