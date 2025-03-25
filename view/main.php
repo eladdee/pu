@@ -1,7 +1,7 @@
 <section class="SectionContent ">
    <div class="SportsIframeWrapper">
       <div class="DropDownBackground"></div>
-      <iframe id="SportsIframe" scrolling="no" class="SportsIframe" title="Sports Iframe" src="https://sports2.pusulabet879.com/tr?basePath=https%3A%2F%2Fwww.pusulabet879.com%2Ftr%2Fsports%2Fi&amp;currentSession=" allow="autoplay;fullscreen;web-share" style="height: 3752px;"></iframe>
+      <iframe id="SportsIframe" scrolling="no" class="SportsIframe" title="Sports Iframe" src="/iframe.php" allow="autoplay;fullscreen;web-share" style="height: 3752px;"></iframe>
    </div>
    <div class="GameCategoriesWrapper">
       <section id="pusulabet-sport$top-20-canli-casino" class="CasinoGames GamesList GamesListGrid MsnRow">
