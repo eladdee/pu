@@ -1488,7 +1488,7 @@
       <section data-slider="slider_skeleton" id="type_slider_skeleton" style="height: 100%;">
          <div id="primary-skeleton" class="splide skeletonMain splide--slide splide--ltr is-active is-initialized">
             <div class="splide__track" id="primary-skeleton-track" style="padding-left: 0px; padding-right: 0px;">
-               <ul class="splide__list" id="ul_slide_skeleton">
+               <ul class="splide__list" id="ul_slide_skeleton" style="transform: translateX(430px);">
                   <li class="splide__slide is-active is-visible" style="height: 250px; margin-right: 0px; width: calc(100% + 0px);" id="primary-skeleton-slide01" tabindex="0">
                      <dom-if-banner style="display: none;">
                         <template is="dom-if-banner"></template>
