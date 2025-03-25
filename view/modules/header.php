@@ -532,7 +532,7 @@
       <div id="AppContainer" class="AppContainer">
          <div class="RootContent BaseSwipe">
             <header class="SectionHeader" id="HeaderElement">
-               <div class="OperatorMaxwidth ComponentLayout Layout HeaderContainer">
+               <div class="OperatorMaxwidth ComponentLayout Layout HeaderContainer" style="bottom: 0 !important;">
                   <div class="OperatorMobileNavMock"></div>
                      <div class="OperatorLogo">
                         <a class="ComponentAnchor OperatorLogoLink Anchor" href="/tr">
