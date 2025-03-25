@@ -1,5 +1,5 @@
 <?php if(isset($us['id'])){ ?>
-   <section class="SectionContent " style="background: #fff;">
+   <section class="SectionContent ">
    <div class="ContentWrapper TextPageWrapper ComponentLayout Layout CmsStaticPage">
       <span id="ch_529126334" class="">
          <style> .SectionContent { padding-bottom: 0 !important;} .TextPageWrapper { max-width: 100% !important;padding: 0 !important;} .SectionContent .CmsStaticPage p {margin-bottom: 0 !important;font-size: 0 !important;} </style>
@@ -9,7 +9,7 @@
    </div>
 </section>
    <?php }else{?>     
-<section class="SectionContent">
+<section class="SectionContent" style="background: #fff;">
    <div class="ErrorContent ComponentLayout Instance403content Layout">
       <h1 class="ComponentTitle Instance403title Title">Kişisel Hesap Sayfası</h1>
       <p class="ComponentText InstanceOperatorErrorText Text">Üzgünüz bu sayfayı görüntülemek için giriş yapmanız gerekmektedir. Devam etmek için lütfen Pusulabet 'e giriş yapın.</p>

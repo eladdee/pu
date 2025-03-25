@@ -1,5 +1,5 @@
 <?php if(isset($us['id'])){ ?>
-    <section class="SectionContent " style="background: #fff;">
+    <section class="SectionContent " >
    <div class="GamificationHeader GamificationTabs">
       <a class="ComponentAnchor GamificationButton IsActive Anchor" href="/level">
          <span class="SvgIcon">
@@ -46,7 +46,7 @@
    </div>
 </section>
     <?php }else{?>    
-<section class="SectionContent">
+<section class="SectionContent"style="background: #fff;">
    <div class="ErrorContent ComponentLayout Instance403content Layout">
       <h1 class="ComponentTitle Instance403title Title">Kişisel Hesap Sayfası</h1>
       <p class="ComponentText InstanceOperatorErrorText Text">Üzgünüz bu sayfayı görüntülemek için giriş yapmanız gerekmektedir. Devam etmek için lütfen Pusulabet 'e giriş yapın.</p>
