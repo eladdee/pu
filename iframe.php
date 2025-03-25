@@ -2115,7 +2115,7 @@
                         </div>
                      </div>
                   </div>
-                  <section data-slider="slider" id="type_slider" class="fadebanner slide_id_1 d_desktop d_tablet d_mobile" style="min-height: 250px; overflow-y: auto;">
+                  <section data-slider="slider" id="type_slider" class="fadebanner slide_id_1 d_desktop d_tablet d_mobile" style="min-height: 250px; overflow: hidden;">
                      <div id="primary-slider" class="splide is-initialized skeletonMain splide--fade splide--ltr splide--draggable is-active" style="border: none; display: block;">
                         <div class="splide__arrows" style="display: block;">
                            <button class="splide__arrow splide__arrow--prev" aria-controls="primary-slider-track" aria-label="Previous slide">
