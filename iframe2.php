@@ -80,7 +80,7 @@
                   <div class="OM-Slider OM-Slider--ItemFullUnequalWidth">
                      <div class="OM-Slider__Bar">
                         <div class="OM-Slider__Scroll">
-                           <div class="OM-Slider__Container" style="transform: translateX(0px);">
+                           <div class="OM-Slider__Container" style="transform: translateX(-180px);">
                               <div class="OM-Slider__Item">
                                  <bannermatrix-banner class="BannerNavbar BannerWidgetColorPack" operator-id="2331" webapi-realm="www.pusulabet.com" webapi-url="wss://sportsapi.pusulabet880.com/v2" page-tag="home-page" position-tag="center-navbar" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="11b8fa3e-2251-4fd2-bd25-499d824787d2" class-name="" translate="{}"></bannermatrix-banner>
                               </div>
