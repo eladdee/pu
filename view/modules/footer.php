@@ -263,11 +263,7 @@
                      <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="/stateless-pusulabet-one/2021/02/300981e7-logo-1.png"></figure>
                   </a>
                </li>
-               <li class="footer-external-logo-item">
-                  <a class="ComponentAnchor  Anchor">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" data-src="//:0" class="PictureImg LazyImage" src="//:0"></figure>
-                  </a>
-               </li>
+               
             </ul>
          </div>
       </div>
