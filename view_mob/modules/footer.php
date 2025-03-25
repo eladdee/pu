@@ -672,11 +672,11 @@
    </div>
    <div class="NavigationBar  " part="NavigationBar  ">
       <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor ">
-         <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/36659e50-shutterstock_1470004847-converted-2.svg" alt="7/24 Canlı Destek"></div>
+         <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/1.svg" alt="7/24 Canlı Destek"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">7/24 Canlı Destek</p>
       </div>
       <div class="NavigationPrimaryItemAnchor NavItem1 " part="NavigationPrimaryItemAnchor ">
-         <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/fd9675d7-shutterstock_2492155611-converted.svg" alt="Casino"></div>
+         <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/2.svg" alt="Casino"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Casino</p>
       </div>
       <div class="NavigationPrimaryItemAnchor NavItem2 " part="NavigationPrimaryItemAnchor ">
