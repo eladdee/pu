@@ -2214,9 +2214,12 @@ iframe {
   height: 100%;
   display: flex;
   vertical-align: middle;
+  position: relative;
   align-items: center;
+  bottom: 50px;
   box-sizing: border-box;
   padding: 0 0 0 0.5rem;
+  z-index: 50;
 }
 @media (min-width: 480px) {
   .HeaderContainer {
@@ -18872,7 +18875,8 @@ body.Page-Forexbet .SectionContent {
   padding-right: env(safe-area-inset-right);
 }
 .BurgerNavMenuWrapper {
-  z-index: 5;
+  width: 50px;
+    z-index: 65;
 }
 .TriggerMainNav.IsActive .OperatorMainMenu.CrossSellMenu {
   width: 90vw;
