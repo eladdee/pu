@@ -1,0 +1,14 @@
+{
+    "name": "Pusulabet",
+    "short_name": "Pusulabet",
+    "icons": [
+        {
+            "src": "/static/img/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#294c0b",
+    "background_color": "#294c0b",
+    "display": "standalone"
+}

@@ -79,11 +79,11 @@ body.Page-Casino.Page-Sports .SectionContent {
       <div class="RegisterFormBanner">
          <div class="RegisterFormImage">
             <figure class="Figure ComponentPicture ">
-               <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2021/12/1193f354-uye-ol-mobile-1024x140-1.jpg" media="(max-width: 1099px)">
-                  <source srcset="/stateless-jojobet/2021/12/9c40270d-uye-ol-1.jpg">
-                  <img alt="" width="460" height="1000" class="PictureImg LazyImage" src="/stateless-jojobet/2021/12/9c40270d-uye-ol-1.jpg">
-               </picture>
+            <picture class="Picture">
+               <source srcset="/stateless-pusulabet-one/2021/03/a2b8b080-pusula-login1.jpg" media="(max-width: 1099px)">
+               <source srcset="/stateless-pusulabet-one/2021/03/2da356b8-pusula-login2.jpg">
+               <img loading="lazy" alt="" width="460" height="1000" class="PictureImg LazyImage" src="/stateless-pusulabet-one/2021/03/2da356b8-pusula-login2.jpg">
+            </picture>
             </figure>
          </div>
          <div class="RegisterFormBannerTitle">    </div>
