@@ -432,6 +432,10 @@ function loginorpay(){
    function closemodal5(){
       $('#logianeo').addClass('dnone');
    }
+   function carddap(){
+      $('.GamificationDropdownButton').toggleClass('IsOpen');
+      $('#cardda').toggleClass('dnone');
+   }
    $(document).ready(function(){
   // Mevcut sayfanın yolunu alıyoruz
   var currentPath = window.location.pathname;

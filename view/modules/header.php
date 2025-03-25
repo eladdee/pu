@@ -748,7 +748,317 @@
                   <div class="OperatorHeaderContainer">
                   <?php if(isset($us['id'])){ ?>
                   <div class="OperatorAccountContainer ComponentLayout InstanceOperatorHeaderAccountContainer Layout">
-                     <a class="ComponentAnchor CTASecondary OperatorHeaderDeposit DepositBtn ComponentButton InstanceDeposit Button OperatorTransferModal InstanceOperatorTransferModalTrigger   Anchor" href="/deposit">
+                  <div class="GamificationDropdownContainer">
+                     <button class="GamificationDropdownButton" onclick="carddap()" type="button" title="0">
+                        0 XP
+                        <span class="">
+                           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                              <path d="M23 7.769l-11 11-11-11L3.538 5.23 12 13.692l8.462-8.46"></path>
+                           </svg>
+                        </span>
+                     </button>
+                     <div class="GamificationDropdown GamificationProgressCard dnone" id="cardda">
+                        <player-elevate-loyaltycard player-name="" endpoint="https://pusulabet-com.nwacdn.com" session="cd5873f2-c041-47fd-bd70-105ce551fbd4" language="tr" client-styling-url="/static/css/widgets/gamification-card/style-1.0.590.css" theme="Dark" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated">
+                           <div class="ElevateCardWrapper Dark">
+                              <div class="LoyaltyCard Outer" style="background-image: url(&quot;/static/static/card-ground.svg&quot;);">
+                                 <general-styling-wrapper class="hydrated">
+                                    <style hidden="">:host{height:unset!important}.ElevateCardWrapper,.Inner{min-height:unset!important}.ElevateCardWrapper .Inner .PlayerImg{display:none}.ElevateCardWrapper .Inner .Content{padding:3.6rem}.ElevateCardWrapper .PointsCard .Inner .SPPoints{padding:0!important}.ElevateCardWrapper .PointsCard .Inner .SPPoints .PointsInfo .Points{font-size:3.6rem}.ElevateCardWrapper .PointsCard .Inner .SPPoints .PointsInfo .Points .XP{font-size:1.4rem;vertical-align:baseline;font-weight:400}.ElevateCardWrapper .LoyaltyCard .Inner .LevelInfo .ElevateLevel .LevelName{color:#fff;font-size:3.6rem}.ElevateCardWrapper .LoyaltyCard .Inner .LevelInfo .PointsInfo{font-size:2rem;padding-top:3rem}.ElevateCardWrapper .LoyaltyCard .Inner .LevelInfo .PointsInfo .XP{font-size:1.4rem;vertical-align:baseline;font-weight:400}.ElevateCardWrapper .LoyaltyCard .Inner .LevelInfo .NextLevelTip{color:#cacaca;text-align:left;font-weight:400}</style>
+                                    <!---->
+                                    <div class="StyleShell"></div>
+                                 </general-styling-wrapper>
+                                 <player-elevate-card-data class="hydrated"></player-elevate-card-data>
+                                 <div class="OuterCover Inner" style="background-image: url(&quot;/static/static/card-ground-over.svg&quot;);">
+                                    <div class="Content Row">
+                                       <div class="PlayerImg">
+                                          <div class="PlayerAvatar"><img class="Badge" src="/static.glastcoper.com/bonus/img/2331/pusula-vipclub.png"></div>
+                                       </div>
+                                       <div class="LevelInfo Başlangıç">
+                                          <div class="CardCell ElevateLevel"><span class="LevelName" title="Başlangıç">Başlangıç</span></div>
+                                          <div class="PointsInfo">0</div>
+                                          <span class="LevelProgress" id="LevelProgress">
+                                             <svg width="100%" height="28" style="opacity: 1;" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <rect y="12" x="2" width="100%" id="total_level" height="5" rx="2.5" fill="white" fill-opacity="0.5" viewbox="0 0 0 28"></rect>
+                                                <rect y="12" x="2" id="current_level" width="0" height="5" rx="2.5" fill="white"></rect>
+                                                <g filter="url(#filter_current_level)">
+                                                   <circle id="circle_current_level" cx="6.5" cy="14.5" r="6.5" fill="white"></circle>
+                                                </g>
+                                                <g filter="url(#filter_heart_ball)">
+                                                   <g filter="url(#filter_ball)">
+                                                      <circle cx="278" cy="14" r="10" id="lock" fill="url(#paint0_linear_ball)"></circle>
+                                                   </g>
+                                                   <g filter="url(#filter_heart)">
+                                                      <svg x="272" y="4" id="lock_box">
+                                                         <path d="M10.217 6.42442c-0.713,-0.574,-1.304,-1.083,-1.928,-1.622c-0.348,-0.299,-0.707,-0.611,-1.101,-0.943l-0.013,-0.01c0,0,-0.023,-0.017,-0.04,-0.027l-0.167,-0.095l-0.15,0.12c0,0,-0.015,0.012,-0.024,0.02c-0.391,0.33,-0.749,0.64,-1.094,0.939c-0.622,0.539,-1.211,1.048,-1.924,1.624c-1.816,1.463,-3.598,3.263,-3.033,5.506c0.404,1.601,2.104,2.905,3.789,2.905c0.211,0,0.423,-0.02,0.626,-0.061c0.286,-0.058,0.572,-0.145,0.864,-0.265c-0.079,0.962,-0.413,1.864,-0.881,2.369l-0.423,0.459h0.633c0.633,0,1.018,-0.007,1.356,-0.013c0.248,-0.004,0.462,-0.008,0.72,-0.008c0.335,0,0.709,0.006,1.215,0.021l0.686,0.02l-0.474,-0.483c-0.504,-0.514,-0.847,-1.403,-0.923,-2.385c0.311,0.132,0.616,0.227,0.916,0.287c0.204,0.039,0.411,0.059,0.623,0.059c1.687,0,3.386,-1.304,3.789,-2.909c0.56,-2.243,-1.224,-4.041,-3.042,-5.504v-0.004z" fill="#933CBF"></path>
+                                                         <path d="M9.727,6.98459c-1.004,-0.83,-1.741,-1.515,-2.723,-2.365c-0.002,0,-0.004,-0.004,-0.007,-0.006c-0.002,0,-0.004,0.004,-0.006,0.006c-0.98,0.85,-1.715,1.537,-2.721,2.367c-1.455,1.202,-3.126,2.821,-2.638,4.81c0.37,1.511,2.091,2.751,3.665,2.43c0.389,-0.08,0.75,-0.224,1.094,-0.402c0,0.116,-0.004,0.233,-0.012,0.353c-0.064,0.991,-0.398,1.892,-0.86,2.401c1.481,0,1.481,-0.043,2.961,0c-0.481,-0.503,-0.834,-1.382,-0.9,-2.401c-0.008,-0.127,-0.012,-0.253,-0.012,-0.378c0.357,0.19,0.733,0.342,1.14,0.425c1.574,0.319,3.292,-0.922,3.661,-2.433c0.486,-1.992,-1.189,-3.609,-2.644,
+                                                            -4.809l0.002,0.002z" fill="url(#paint1_linear_lock)"></path>
+                                                         <path d="M9.255,7.551c-0.844,-0.716,-1.462,-1.309,-2.286,-2.045c-0.002,0,-0.004,-0.004,-0.006,-0.006c0,0,-0.004,0.004,-0.006,0.006c-0.824,0.736,-1.44,1.329,-2.284,2.047c-0.919,0.782,-1.94,1.769,-2.214,2.943c-0.115,0.021,-0.914,0.044,-0.914,0.044l0.887,0.083c-0.039,0.206,-0.055,0.418,-0.041,0.638c0.087,-1.371,1.25,-2.507,2.282,-3.384c0.844,-0.718,1.462,-1.313,2.284,-2.047c0.002,-0.002,0.004,-0.004,0.006,-0.006c0.002,0,0.004,0.004,0.006,0.004c0.824,0.734,1.442,1.329,2.286,2.045c1.034,0.879,2.198,2.013,2.286,3.386c0.093,-1.517,-1.173,-2.761,-2.286,-3.708z" fill="#9040C9"></path>
+                                                      </svg>
+                                                   </g>
+                                                </g>
+                                                <g filter="url(#filter_lock)">
+                                                   <svg x="272" y="9" id="heart_box">
+                                                      <path d="M7,6c-0.19,-0.002,-0.377,0.052,-0.534,0.154c-0.158,0.103,-0.278,0.25,-0.346,0.42c-0.069,0.171,-0.081,0.357,-0.035,0.535c0.046,0.177,0.147,0.337,0.29,0.457v0.834c0,0.159,0.066,0.312,0.183,0.424c0.117,0.113,0.276,0.176,0.442,0.176c0.166,0,0.325,-0.063,0.442,-0.176c0.117,-0.112,0.183,-0.265,0.183,-0.424v-0.834c0.143,-0.12,0.244,-0.28,0.29,-0.457c0.046,-0.178,0.034,-0.364,-0.035,-0.535c-0.068,-0.17,-0.188,-0.317,-0.346,-0.42c-0.157,-0.102,-0.344,-0.156,-0.534,-0.154zm3.125,-2.4v-1.2c0,-0.796,-0.329,-1.559,-0.915,-2.121c-0.586,-0.563,-1.381,-0.879,-2.21,-0.879c-0.829,0,-1.624,0.316,-2.21,0.879c-0.586,0.562,-0.915,1.325,-0.915,2.121v1.2c-0.497,0,-0.974,0.19,-1.326,0.527c-0.351,0.338,-0.549,0.796,-0.549,1.273v4.2c0,0.477,0.198,0.935,0.549,1.273c0.352,0.337,0.829,0.527,1.326,0.527h6.25c0.497,0,0.974,-0.19,1.326,-0.527c0.351,-0.338,0.549,-0.796,0.549,-1.273v-4.2c0,-0.477,-0.198,-0.935,-0.549,-1.273c-0.352,-0.337,-0.829,-0.527,-1.326,-0.527zm-5,-1.2c0,-0.477,0.198,-0.935,0.549,-1.273c0.352,-0.337,0.829,-0.527,1.326,-0.527c0.497,0,0.974,0.19,1.326,0.527c0.351,0.338,0.549,0.796,0.549,1.273v1.2h-3.75v-1.2zm5.625,7.2c0,0.159,-0.066,0.312,-0.183,0.424c-0.117,0.113,-0.276,0.176,-0.442,0.176h-6.25c-0.166,0,-0.325,-0.063,-0.442,-0.176c-0.117,-0.112,-0.183,-0.265,-0.183,-0.424v-4.2c0,-0.159,0.066,-0.312,0.183,-0.424c0.117,-0.113,0.276,-0.176,0.442,-0.176h6.25c0.166,0,0.325,0.063,0.442,0.176c0.117,0.112,0.183,0.265,0.183,0.424v4.2z" fill="white"></path>
+                                                   </svg>
+                                                </g>
+                                                <defs>
+                                                   <filter id="filter_current_level" x="-8" y="4" width="21" height="21" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                      <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+                                                      <feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_305_23"></feGaussianBlur>
+                                                   </filter>
+                                                   <filter id="filter_heart_ball" x="264" y="0" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                      <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+                                                      <feOffset></feOffset>
+                                                      <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+                                                      <feComposite in2="hardAlpha" operator="out"></feComposite>
+                                                      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+                                                      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_305_23"></feBlend>
+                                                      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_305_23" result="shape"></feBlend>
+                                                   </filter>
+                                                   <filter id="filter_ball" x="268" y="4" width="20" height="21" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                      <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+                                                      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+                                                      <feOffset dy="1"></feOffset>
+                                                      <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+                                                      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"></feComposite>
+                                                      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.55 0"></feColorMatrix>
+                                                      <feBlend mode="normal" in2="shape" result="effect1_innerShadow_305_23"></feBlend>
+                                                   </filter>
+                                                   <filter id="filter_heart" x="270" y="5.72727" width="14.7271" height="15.6364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                      <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+                                                      <feOffset></feOffset>
+                                                      <feGaussianBlur stdDeviation="0.5"></feGaussianBlur>
+                                                      <feComposite in2="hardAlpha" operator="out"></feComposite>
+                                                      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+                                                      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_305_23"></feBlend>
+                                                      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_305_23" result="shape"></feBlend>
+                                                   </filter>
+                                                   <filter id="filter_lock" x="272" y="7" width="12" height="14" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                      <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                                                      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+                                                      <feOffset></feOffset>
+                                                      <feGaussianBlur stdDeviation="0.5"></feGaussianBlur>
+                                                      <feComposite in2="hardAlpha" operator="out"></feComposite>
+                                                      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+                                                      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_305_23"></feBlend>
+                                                      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_305_23" result="shape"></feBlend>
+                                                   </filter>
+                                                   <linearGradient id="paint0_linear_ball" x1="272" y1="6" x2="283.2" y2="22.6" gradientUnits="userSpaceOnUse">
+                                                      <stop stop-color="#946AD7"></stop>
+                                                      <stop offset="1" stop-color="#EFABEB"></stop>
+                                                   </linearGradient>
+                                                   <linearGradient id="paint1_linear_lock" x1="278" y1="18.4056" x2="278" y2="10.2845" gradientUnits="userSpaceOnUse">
+                                                      <stop stop-color="#814FD6"></stop>
+                                                      <stop offset="1" stop-color="#D679D8"></stop>
+                                                   </linearGradient>
+                                                </defs>
+                                             </svg>
+                                          </span>
+                                          <div class="Row NextLevelTip">Need 25000.00 to reach Bronz</div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <style>:host {
+                           display: block;
+                           width: 360px;
+                           height: 230px;
+                           }
+
+                           .ElevateCardWrapper {
+                           contain: layout inline-size;
+                           width: 100%;
+                           height: fit-content;
+                           min-height: 218px;
+                           }
+
+                           .Outer {
+                           container-type: inline-size;
+                           font-size: 12px;
+                           background-size: cover;
+                           background-repeat: no-repeat;
+                           line-height: initial;
+                           width: 100%;
+                           height: 100%;
+                           }
+
+                           .Dark {
+                           color: var(--emfe-w-color-gray150, #efefef);
+                           }
+
+                           .Light {
+                           color: var(--emfe-w-color-black, #0e0e0e);
+                           }
+
+                           @container (min-width: 381px) {
+                           .Outer {
+                              background-size: cover;
+                           }
+                           .Outer .OuterCover {
+                              min-height: 190px;
+                           }
+                           }
+                           @container (min-width: 260px) {
+                           .Outer {
+                              background-size: contain;
+                           }
+                           }
+                           .OuterCover {
+                           width: 100%;
+                           height: 100%;
+                           content: "";
+                           background-repeat: no-repeat;
+                           background-size: cover;
+                           border-radius: 15px;
+                           }
+
+                           .Inner {
+                           display: flex;
+                           flex-direction: column;
+                           min-height: 158px;
+                           }
+                           .Inner .Content {
+                           padding: 15px;
+                           flex-wrap: wrap;
+                           gap: 8px;
+                           }
+                           .Inner .Row {
+                           display: flex;
+                           flex-direction: row;
+                           }
+                           .Inner .CardCell {
+                           display: flex;
+                           }
+                           .Inner .LevelProgress svg {
+                           transition: opacity 0.4s;
+                           }
+                           .Inner .LevelInfo {
+                           display: flex;
+                           flex-direction: column;
+                           }
+                           .Inner .LevelInfo .ElevateLevel .LevelName {
+                           height: 28px;
+                           border-radius: 5px;
+                           line-height: 28px;
+                           overflow: hidden;
+                           text-overflow: ellipsis;
+                           white-space: nowrap;
+                           }
+                           .Inner .LevelInfo.Level0 .ElevateLevel .LevelName {
+                           box-shadow: -2px -2px 7px 0px var(--emfe-w-elevate-color-level0button-shadow, rgba(191, 84, 6, 0.75));
+                           background: linear-gradient(180deg, var(--emfe-w-elevate-color-level0-bg0, #E2792C) 0%, var(--emfe-w-elevate-color-level0-bg1, rgba(242, 151, 99, 0)) 100%);
+                           }
+                           .Inner .LevelInfo.Level1 .ElevateLevel .LevelName {
+                           box-shadow: -2px -2px 7px 0px var(--emfe-w-elevate-color-level1button-shadow, rgba(151, 151, 151, 0.75));
+                           background: linear-gradient(180deg, var(--emfe-w-elevate-color-level1-bg0, #BEBFED) 0%, var(--emfe-w-elevate-color-level1-bg1, rgba(216, 217, 233, 0)) 100%);
+                           }
+                           .Inner .LevelInfo.Level2 .ElevateLevel .LevelName {
+                           box-shadow: -2px -2px 7px 0px var(--emfe-w-elevate-color-level2button-shadow, rgba(191, 120, 6, 0.75));
+                           background: linear-gradient(180deg, var(--emfe-w-elevate-color-level2-bg0, #FCC410) 0%, var(--emfe-w-elevate-color-level2-bg1, rgba(255, 189, 43, 0)) 100%);
+                           }
+                           .Inner .LevelInfo.Level3 .ElevateLevel .LevelName {
+                           box-shadow: -2px -2px 7px 0px var(--emfe-w-elevate-color-level3button-shadow, rgba(65, 6, 191, 0.75));
+                           background: linear-gradient(180deg, var(--emfe-w-elevate-color-level3-bg0, #B1A2DB) 0%, var(--emfe-w-elevate-color-level3-bg1, rgba(203, 202, 245, 0)) 100%);
+                           }
+                           .Inner .LevelInfo.Level4 .ElevateLevel .LevelName {
+                           box-shadow: -2px -2px 7px 0px var(--emfe-w-elevate-color-level4button-shadow, rgba(65, 6, 191, 0.75));
+                           background: linear-gradient(180deg, var(--emfe-w-elevate-color-level4-bg0, #B1A2DB) 0%, var(--emfe-w-elevate-color-level4-bg1, rgba(203, 202, 245, 0)) 100%);
+                           }
+                           .Inner .LevelInfo .ElevateLevel {
+                           display: flex;
+                           }
+                           .Inner .LevelInfo {
+                           flex: 1;
+                           flex-grow: 1;
+                           min-width: 150px;
+                           }
+                           .Inner .PlayerImg {
+                           width: 29%;
+                           margin: auto;
+                           max-width: 100px;
+                           min-width: 30px;
+                           order: 0;
+                           }
+                           .Inner .PlayerAvatar {
+                           max-width: 100px;
+                           flex-basis: 100px;
+                           height: auto;
+                           margin: auto;
+                           padding-top: 10px;
+                           }
+                           .Inner .PlayerAvatar .Avatar, .Inner .PlayerAvatar .Badge {
+                           width: 100%;
+                           height: 100%;
+                           }
+                           .Inner .PlayerAvatar .Avatar {
+                           border-radius: 50%;
+                           background-size: contain;
+                           background-repeat: no-repeat;
+                           }
+                           .Inner .ElevateLevel .ExpirationDate {
+                           max-width: 138px;
+                           min-width: 118px;
+                           }
+                           .Inner .PlayerName, .Inner .RedeemButton, .Inner .ElevateLevel {
+                           text-transform: capitalize;
+                           width: 100%;
+                           }
+                           .Inner .PlayerName {
+                           font-size: 16px;
+                           }
+                           .Inner .Row .PointsInfo {
+                           display: table;
+                           font-weight: 600;
+                           }
+                           .Inner .Row .Redeem {
+                           justify-content: flex-end;
+                           margin-left: auto;
+                           }
+                           .Inner .Row .Redeem:hover {
+                           color: var(--emfe-w-elevate-color-redeem-hover, #00ABA4);
+                           cursor: pointer;
+                           }
+                           .Inner .Row .RedeemButton:hover span {
+                           color: var(emfe-w-elevate-color-redeem-text-hover, #f1f1f1);
+                           font-weight: bold;
+                           }
+                           .Inner .Row .RedeemButton {
+                           width: 95px;
+                           height: 35px;
+                           display: flex;
+                           align-items: center;
+                           border-radius: 10px;
+                           background: var(--emfe-w-elevate-color-redeem-bg, linear-gradient(0deg, #26CC37, #26CC37)), linear-gradient(117.99deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 33.89%), linear-gradient(283.85deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 33.47%), linear-gradient(268.18deg, rgba(255, 255, 255, 0.6) -17.36%, rgba(239, 239, 239, 0) 15.78%);
+                           box-shadow: 0px 4px 4px 0px #00000040;
+                           }
+                           .Inner .Row .RedeemButton span {
+                           color: var(--emfe-w-color-white, #fff);
+                           line-height: 18px;
+                           font-size: 15px;
+                           text-align: center;
+                           width: 100%;
+                           }
+                           .Inner .Row .Points {
+                           font-size: large;
+                           vertical-align: middle;
+                           }
+                           .Inner .Row .Points .XP {
+                           font-size: x-small;
+                           }
+                           .Inner .Row .ExpirationPoints {
+                           font-size: small;
+                           text-align: right;
+                           font-weight: bold;
+                           color: var(--emfe-w-color-red, #9e595f);
+                           }</style>
+                        </player-elevate-loyaltycard>
+                     </div>
+                  </div>  
+                  <a class="ComponentAnchor CTASecondary OperatorHeaderDeposit DepositBtn ComponentButton InstanceDeposit Button OperatorTransferModal InstanceOperatorTransferModalTrigger   Anchor" href="/deposit">
                         <div class="TotalBalanceWrapper">
                            <p class="ComponentText InstanceOperatorCasinoBalance Text">Toplam Bakiyeniz</p>
                            <span class="Currency"><span class="FormattedAmount"><?=$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
