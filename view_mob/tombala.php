@@ -1,412 +1,325 @@
 <section class="SectionContent">
    <div class="OperatorSlider Slider SliderSwipe">
       <section class="slider" aria-label="carousel-slider" role="region" tabindex="0" style="box-sizing: border-box; display: block; height: inherit; position: relative; width: 100%;">
-         <div class="slider-frame" style="box-sizing: border-box; display: block; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
+         <div class="slider-frame" style="box-sizing: border-box; display: block; height: 100%; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
             <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 232px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-430px, 0px, 0px); width: auto; transition: all;">
-               <div class="slider-slide" aria-label="slide 1 of 24" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+               <div class="slider-slide" aria-label="slide 1 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                   <div class="SliderItem">
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/3ab61588-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/4dd79b29-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/9a4e4f8f-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                              <source srcset="/stateless-pusulabet-one/2024/07/70ed8e43-casino-mobil.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/07/8a16e57d-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/07/3b60f630-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
                   </div>
                </div>
-               <div class="slider-slide slide-visible slide-current" aria-label="slide 2 of 24" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/39f73f20-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/03c20bfe-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/186eabc6-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 3 of 24" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2024/06/fd1c3a1d-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2024/06/341a623b-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2024/06/4d65a341-casinosliderdesktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 4 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/13f099af-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/51cb5a6e-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/72f5c87b-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 5 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/bdbe14d9-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/bdbe14d9-casino-mobile.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/5e255283-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 6 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/91115d1a-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/94cef14a-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/fc36c5c6-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 7 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/813b07c7-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/f0e17fa2-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/84e039c9-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 8 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/1b3c5bf2-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/a75468a1-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/2972c405-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 9 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/b02b2f31-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/9c5de23b-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/c3ad734c-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 10 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/884b0f39-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/72b875d4-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/7330f97b-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 11 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/c853ee99-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/b2568d4a-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/b0e13662-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 12 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/2ce0050e-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/0517a54d-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/82eb3b5f-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 13 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/068d71dd-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/aa21bb11-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/97dfd775-casinosliderdesktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 14 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/03/24153b1d-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/03/2d8a23e0-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/03/3fd4565d-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 15 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/02/32dcde15-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/02/18df3f38-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/02/973a6c39-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 16 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/02/d66ecb62-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/02/b78ae3fc-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/02/1243a76c-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 17 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2024/02/06b5ee0b-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2024/02/b99b4fc9-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2024/02/297de2c3-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 18 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/02/fc6dda7d-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/02/5ed7da79-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/02/4a801334-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 19 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/02/38af0bf4-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/02/2da055af-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/02/23df1481-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 20 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/02/31ab0efe-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/02/1b5affe2-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/02/e2c21aa8-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 21 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2025/02/230678d9-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2025/02/6c1afae3-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2025/02/fd5851dc-casinosliderdesktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 22 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+               <div class="slider-slide slide-visible slide-current" aria-label="slide 2 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                   <div class="SliderItem">
                      <h3 class="Subtitle"> </h3>
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2024/12/db9c0f7d-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2024/12/32143057-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2024/12/2c230a11-casinosliderdesktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                              <source srcset="/stateless-pusulabet-one/2024/03/b705bb6e-casinoslider_turnuvacasino-mobil.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/03/7fb7763c-casinoslider_turnuvacasino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/03/e242b4e8-casinoslider_turnuvacasino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
                   </div>
                </div>
-               <div class="slider-slide" aria-label="slide 23 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+               <div class="slider-slide" aria-label="slide 3 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                   <div class="SliderItem">
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                     <figure class="Figure ComponentPicture ">
+                        <picture class="Picture">
+                           <source srcset="/stateless-pusulabet-one/2023/06/e8562665-casino-mobil.png" media="(max-width:450px)">
+                           <source srcset="/stateless-pusulabet-one/2023/06/9b23bcef-casino-tablet.png" media="(max-width:875px)">
+                           <source srcset="/stateless-pusulabet-one/2023/06/6b6dba5d-casino-desktop.png">
+                           <img loading="lazy" alt="" class="PictureImg LazyImage">
+                        </picture>
+                     </figure>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 4 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2024/07/2c62f298-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2024/07/90ddde59-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2024/07/7daefb3e-casinosliderdesktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                              <source srcset="/stateless-pusulabet-one/2024/06/2207b827-casino-mobil-42.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/06/d9ce5f6d-casino-tablet-41.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/06/b8e8c374-casino-desktop-42.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage" src="/stateless-pusulabet-one/2024/06/b8e8c374-casino-desktop-42.png">
                            </picture>
                         </figure>
                      </a>
                   </div>
                </div>
-               <div class="slider-slide" aria-label="slide 24 of 24" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+               <div class="slider-slide" aria-label="slide 5 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                   <div class="SliderItem">
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="/stateless-jojobet/2021/11/b8dc206e-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="/stateless-jojobet/2021/11/95a883f3-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="/stateless-jojobet/2021/11/93ed86eb-casinosliderdesktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                              <source srcset="/stateless-pusulabet-one/2024/05/bab679cc-casinoslidermobile-2.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/05/c3b1ef09-casinoslidertablet-2.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/05/cacd78f4-casinosliderdesktop-scaled.jpg">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 6 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2023/12/9ce8fb12-casino-mobil-9.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2023/12/87dc8bf2-casino-tablet-9.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2023/12/0088e4e9-casino-desktop-8.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage" src="/stateless-pusulabet-one/2023/12/0088e4e9-casino-desktop-8.png">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 7 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2024/07/0b87953a-casino-mobil.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/07/bdf2a65c-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/07/5dd3abe1-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 8 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2023/10/c3daa95e-casino-mobil-20.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2023/10/f2016b77-casino-tablet-19.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2023/10/1f2c56a6-casino-desktop-20.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage" src="/stateless-pusulabet-one/2023/10/1f2c56a6-casino-desktop-20.png">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 9 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2023/12/6d598c75-casino-mobil.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2023/12/b04504a6-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2023/12/b3a091d3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage" src="/stateless-pusulabet-one/2023/12/b3a091d3-casino-desktop.png">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 10 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2023/10/9cc3f39e-casino-mobil-3.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2023/10/9c9a311f-casino-tablet-3.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2023/10/572bb31d-casino-desktop-2.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage" src="/stateless-pusulabet-one/2023/10/572bb31d-casino-desktop-2.png">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 11 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2024/05/2b1e941b-casino-mobil-41.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/05/6f2919b1-casino-tablet-40.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/05/2c2b92dd-casino-desktop-41.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage" src="/stateless-pusulabet-one/2024/05/2c2b92dd-casino-desktop-41.png">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 12 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2024/02/28832f60-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/02/1bf2b3c8-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/02/49f1c9c9-casinosliderdesktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 13 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2024/07/830b725c-casino-mobil-17.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/07/7439ede7-casino-tablet-16.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/07/344f6316-casino-desktop-17.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage" src="/stateless-pusulabet-one/2024/07/344f6316-casino-desktop-17.png">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 14 of 19" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: -2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2023/11/2dc012a7-casino-mobil.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2023/11/f9908b65-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2023/11/5cdf0297-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 15 of 19" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2023/12/0db2e86a-casino-mobil-22.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2023/12/774da18f-casino-tablet-22.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2023/12/abb46cdf-casino-desktop-24.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-pusulabet-one/2023/12/abb46cdf-casino-desktop-24.png" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 16 of 19" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2024/03/55c86839-pusula-casino-slidercasino-mobil-1.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/03/853c5b06-pusula-casino-slidercasino-tablet-1.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/03/56a7af92-pusula-casino-slidercasino-desktop-1.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-pusulabet-one/2024/03/56a7af92-pusula-casino-slidercasino-desktop-1.png" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 17 of 19" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2024/02/95d274a8-casino-mobil-40.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/02/fb92c7f4-casino-tablet-39.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/02/6f927c5e-casino-desktop-40.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-pusulabet-one/2024/02/6f927c5e-casino-desktop-40.png" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 18 of 19" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2024/02/06434533-pusula-tur-casino-slidercasino-mobil-1.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/02/5962575c-pusula-tur-casino-slidercasino-tablet-1.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/02/5d5e141b-pusula-tur-casino-slidercasino-desktop-1.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-pusulabet-one/2024/02/5d5e141b-pusula-tur-casino-slidercasino-desktop-1.png" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 19 of 19" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-pusulabet-one/2024/03/614d827b-pusula-tur-casino-slidercasino-mobil-2.png" media="(max-width:450px)">
+                              <source srcset="/stateless-pusulabet-one/2024/03/c6ba1530-pusula-tur-casino-slidercasino-tablet-2.png" media="(max-width:875px)">
+                              <source srcset="/stateless-pusulabet-one/2024/03/b08061dc-pusula-tur-casino-slidercasino-desktop-2.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -462,11 +375,6 @@
                   <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
                   <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
                   <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
-                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
-                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
-                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
-                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
-                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
                </ul>
             </div>
          </div>
@@ -482,7 +390,7 @@
          <section class="OperatorSticky InstanceOperatorSearchfieldWrapper ComponentLayout Layout">
             <div class="OperatorCasinoCategoriesWrapper">
                <div class="HorizontalScrollWrapper">
-                  <button type="button" class="HorizontalScrollBtn" disabled="">
+                  <button type="button" class="HorizontalScrollBtn">
                      <span class="ComponentIcon Icon">
                         <span class="SvgIcon MainIcon">
                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.63 55.06">
@@ -495,169 +403,140 @@
                   </button>
                   <div class="HorizontalScrollBar ComponentLayout NewCatScroll">
                      <ul class="ExtraCategories ComponentList InstanceOperatorHomeExtraList List ListUnordered">
-                        <li class="ListItem"><a class="ComponentAnchor  Anchor"  href="javascript:;" onclick="loginorpay()"><span class="AnchorText">Lobi</span></a></li>
+                        <li class="ListItem"><a class="ComponentAnchor  Anchor" href="javascript:;" onclick="loginorpay()"><span class="AnchorText">Lobi</span></a></li>
+                        <li class="ListItem"><a class="ComponentAnchor  Anchor" href="javascript:;" onclick="loginorpay()"><span class="AnchorText">Favoriler</span><span class="ComponentFavoriteGamesTotal FavoriteGamesNumber InstanceFavGamesTotalNo">0</span></a></li>
                      </ul>
                      <nav class="OperatorCasinoCategories ComponentGameCategories InstanceCasino GameNavContainer OperatorCasino">
                         <div class="GameCategoriesSwipe">
                            <ul class="GameCategories Loaded CategoriesList HorizontalScrollBar List ListUnordered">
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Poker Klas" id="CategoryList-Poker-Klas"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Poker-Klas-Text">Poker Klas</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Türkçe Casino" id="CategoryList-Türkçe-Casino"  href="javascript:;" onclick="loginorpay()">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Türkçe Casino" id="CategoryList-Türkçe-Casino" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Türkçe-Casino-Text">Türkçe Casino</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jojobet'e Özel" id="CategoryList-Jojobet'e-Özel"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Jojobet'e-Özel-Text">Jojobet'e Özel</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TOP 20 CANLI CASİNO" id="CategoryList-TOP-20-CANLI-CASİNO" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-TOP-20-CANLI-CASİNO-Text">TOP 20 CANLI CASİNO</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Top 20 Canlı Casino" id="CategoryList-Top-20-Canlı-Casino"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Top-20-Canlı-Casino-Text">Top 20 Canlı Casino</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Canlı Oyunlar" id="CategoryList-Canlı-Oyunlar"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Canlı-Oyunlar-Text">Canlı Oyunlar</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PlayMatrix" id="CategoryList-PlayMatrix"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-PlayMatrix-Text">PlayMatrix</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Evolution" id="CategoryList-Evolution"  href="javascript:;" onclick="loginorpay()">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Evolution" id="CategoryList-Evolution" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Evolution-Text">Evolution</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Pragmatic Live" id="CategoryList-Pragmatic-Live"  href="javascript:;" onclick="loginorpay()">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Pragmatic Live" id="CategoryList-Pragmatic-Live" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Pragmatic-Live-Text">Pragmatic Live</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yüksek Limitli" id="CategoryList-Yüksek-Limitli"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Yüksek-Limitli-Text">Yüksek Limitli</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Play Matrix" id="CategoryList-Play-Matrix" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Play-Matrix-Text">Play Matrix</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Beter Live" id="CategoryList-Beter-Live"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Beter-Live-Text">Beter Live</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Microgaming Live" id="CategoryList-Microgaming-Live"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Microgaming-Live-Text">Microgaming Live</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Xpg" id="CategoryList-Xpg"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Xpg-Text">Xpg</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Ezugi" id="CategoryList-Ezugi"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Ezugi-Text">Ezugi</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vivo" id="CategoryList-Vivo"  href="javascript:;" onclick="loginorpay()">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vivo" id="CategoryList-Vivo" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Vivo-Text">Vivo</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Amusnet Live" id="CategoryList-Amusnet-Live"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Amusnet-Live-Text">Amusnet Live</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LuckyStreak" id="CategoryList-LuckyStreak" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-LuckyStreak-Text">LuckyStreak</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TVBet" id="CategoryList-TVBet"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-TVBet-Text">TVBet</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Microgaming" id="CategoryList-Microgaming" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Microgaming-Text">Microgaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BetGames" id="CategoryList-BetGames"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-BetGames-Text">BetGames</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Beter Live" id="CategoryList-Beter-Live" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Beter-Live-Text">Beter Live</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PopOK Live" id="CategoryList-PopOK-Live"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-PopOK-Live-Text">PopOK Live</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Betgames" id="CategoryList-Betgames" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Betgames-Text">Betgames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Loto" id="CategoryList-Loto"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Loto-Text">Loto</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LottoInstantWin" id="CategoryList-LottoInstantWin"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-LottoInstantWin-Text">LottoInstantWin</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LiveGames" id="CategoryList-LiveGames"  href="javascript:;" onclick="loginorpay()">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LiveGames" id="CategoryList-LiveGames" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-LiveGames-Text">LiveGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Livespins" id="CategoryList-Livespins"  href="javascript:;" onclick="loginorpay()">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Loto" id="CategoryList-Loto" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Loto-Text">Loto</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LottoInstantWin" id="CategoryList-LottoInstantWin" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-LottoInstantWin-Text">LottoInstantWin</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Livespins" id="CategoryList-Livespins" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Livespins-Text">Livespins</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor IsActive Anchor" title="Tombala" id="CategoryList-Tombala"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Tombala-Text">Tombala</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OneTouch" id="CategoryList-OneTouch" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-OneTouch-Text">OneTouch</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Türkçe Rulet" id="CategoryList-Türkçe-Rulet"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Türkçe-Rulet-Text">Türkçe Rulet</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PopOK Live" id="CategoryList-PopOK-Live" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-PopOK-Live-Text">PopOK Live</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Poker" id="CategoryList-Poker"  href="javascript:;" onclick="loginorpay()">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SevenMojos" id="CategoryList-SevenMojos" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-SevenMojos-Text">SevenMojos</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yüksek Limitli" id="CategoryList-Yüksek-Limitli" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Yüksek-Limitli-Text">Yüksek Limitli</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Canlı Oyunlar" id="CategoryList-Canlı-Oyunlar" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Canlı-Oyunlar-Text">Canlı Oyunlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TvBet" id="CategoryList-TvBet" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-TvBet-Text">TvBet</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Poker" id="CategoryList-Poker" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Poker-Text">Poker</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Blackjack" id="CategoryList-Blackjack"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Blackjack-Text">Blackjack</div>
+                                 <a class="ComponentAnchor GameCategory Anchor IsActive Anchor" title="Tombala" id="CategoryList-Tombala" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Tombala-Text">Tombala</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Rulet" id="CategoryList-Rulet"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Rulet-Text">Rulet</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Zar Oyunları" id="CategoryList-Zar-Oyunları"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Zar-Oyunları-Text">Zar Oyunları</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Baccarat" id="CategoryList-Baccarat"  href="javascript:;" onclick="loginorpay()">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Baccarat" id="CategoryList-Baccarat" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Baccarat-Text">Baccarat</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Sic Bo" id="CategoryList-Sic-Bo"  href="javascript:;" onclick="loginorpay()">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Rulet" id="CategoryList-Rulet" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Rulet-Text">Rulet</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Blackjack" id="CategoryList-Blackjack" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Blackjack-Text">Blackjack</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Sic Bo" id="CategoryList-Sic-Bo" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Sic-Bo-Text">Sic Bo</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TÜM OYUNLAR" id="CategoryList-TÜM-OYUNLAR"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-TÜM-OYUNLAR-Text">TÜM OYUNLAR</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Popüler Slotlar" id="CategoryList-Popüler-Slotlar"  href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Popüler-Slotlar-Text">Popüler Slotlar</div>
                                  </a>
                               </li>
                            </ul>
@@ -702,7 +581,7 @@
       </div>
    </div>
    <div class="GameCategoriesWrapper">
-      <h1 class="ComponentTitle InstanceCasinoCategoryTitle Title">12 Tombala</h1>
+      <h1 class="ComponentTitle InstanceCasinoCategoryTitle Title">9 Tombala</h1>
       <section class="ComponentGameListGrid InstanceGeneralGameListGrid GamesList GamesListGrid CasinoGames MsnRow">
          <div class="GamesWrapper VerticalMobileLayout">
             <div class="ToggleTagsButtonWrapper">
@@ -723,183 +602,219 @@
                </button>
             </div>
             <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
-               <li class="ListGame ListItem" data-game-id="12274055531">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Tombala" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/62A60123D7A7C4DB0398C7BBBBA64405.optimized.png"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tombala !"  href="javascript:;" onclick="loginorpay()">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Tombala</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                     </div>
-                  </div>
-               </li>
                <li class="ListGame ListItem" data-game-id="50073024044">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Tombala Lucky Box" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/697D153F37B09C29F53579A158D51F96.jpg"></div>
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Tombola Lucky Box" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/00116D9A5299772EFE7AFC543A0BB5B9.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tombala Lucky Box !"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tombola Lucky Box !" href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Tombala Lucky Box</h3>
+                           <h3 class="GameTitle" itemprop="name">Tombola Lucky Box</h3>
                            <div class="GameTags"></div>
                         </div>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="45062064418">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Oto Tombala" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/72CC55699BB0851A9FB85619B9F2FFD6.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Oto Tombala !"  href="javascript:;" onclick="loginorpay()">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Oto Tombala</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="60857089164">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Bingo Turco" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/A/AE06E03F04DB2709156A75675883F59A.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bingo Turco !"  href="javascript:;" onclick="loginorpay()">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Bingo Turco</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="30497055018">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Üst Alt" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/F/F24E4CC25D875ED835D384394B83A06C.optimized.png"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Üst Alt !"  href="javascript:;" onclick="loginorpay()">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Üst Alt</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="30498050873">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Kılıç" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/A/ABD5518E2DB2863AB6B3C693BC743460.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Kılıç !"  href="javascript:;" onclick="loginorpay()">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Kılıç</h3>
-                           <div class="GameTags"></div>
-                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
                      </div>
                   </div>
                </li>
                <li class="ListGame ListItem" data-game-id="45061089873">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Oto Hızlı Tombala" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/F/F0DF2F58ACDEC77B8A381C4246957E7A.jpg"></div>
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Tombala VIP" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/B/BD1C3A8E885F449C3C30100841EDAA61.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Oto Hızlı Tombala !"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tombala VIP !" href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Oto Hızlı Tombala</h3>
+                           <h3 class="GameTitle" itemprop="name">Tombala VIP</h3>
                            <div class="GameTags"></div>
                         </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="57477023185">
+               <li class="ListGame ListItem" data-game-id="45062064418">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Vegas Ball Bonanza" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/CD68643415A343197A2D7716B57A6B0E.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/ADEC8B872FDD2C548871A027F8589C71.png" alt="PragmaticPlay"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Vegas Ball Bonanza !"  href="javascript:;" onclick="loginorpay()">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Tombala Auto" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/08CBF96821F79176E56579FEF6B9CE6C.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tombala Auto !" href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Vegas Ball Bonanza</h3>
+                           <h3 class="GameTitle" itemprop="name">Tombala Auto</h3>
                            <div class="GameTags"></div>
                         </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="34881006595">
+               <li class="ListGame ListItem" data-game-id="30497055018">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Bingo - Mega Ball" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/9/9E097144E0677B408EEF83073B0C7FF6.optimized.png"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/AE36B95E46312E03F7E85317EEB0F61D.png" alt="Evolution"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bingo - Mega Ball !"  href="javascript:;" onclick="loginorpay()">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Alt Üst" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/8/8716C82558208A411CEF2A45D0165E92.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Alt Üst !" href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Bingo - Mega Ball</h3>
+                           <h3 class="GameTitle" itemprop="name">Alt Üst</h3>
                            <div class="GameTags"></div>
                         </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="13558023530">
+               <li class="ListGame ListItem" data-game-id="30498050873">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Şanslı 6" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/5/503906C932FA75C5861E8CAF67C46738.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0AAFC1C1936C3FC8B6B95399F6852E85.png" alt="BetGames"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Şanslı 6 !"  href="javascript:;" onclick="loginorpay()">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Kilic" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/9/96702A53C8CF9DDDC349920A30135E11.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Kilic !" href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Şanslı 6</h3>
+                           <h3 class="GameTitle" itemprop="name">Kilic</h3>
                            <div class="GameTags"></div>
                         </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="57881051246">
+               <li class="ListGame ListItem" data-game-id="39792084591">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Şanslı 7" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/2E4C5FD07ACFFAF8F6E1C000A67DC044.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0AAFC1C1936C3FC8B6B95399F6852E85.png" alt="BetGames"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Şanslı 7 !"  href="javascript:;" onclick="loginorpay()">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Lucky6" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/EDF96EA056EFD27907DFFCC7BE234F09.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lucky6 !" href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Şanslı 7</h3>
+                           <h3 class="GameTitle" itemprop="name">Lucky6</h3>
                            <div class="GameTags"></div>
                         </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="12274055531">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Tombala" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/5/5C7DE98742CBA459357ED85DE23643F4.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tombala !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Tombala</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
                      </div>
                   </div>
                </li>
                <li class="ListGame ListItem" data-game-id="8689095592">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Loto 5 - 36" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/E29BEF79390AFB1342C782F164A5C2E5.jpg"></div>
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Lotto 5 - 36" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/8/8082AAB732FB86E16B23FE09620531E5.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0AAFC1C1936C3FC8B6B95399F6852E85.png" alt="BetGames"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Loto 5 - 36 !"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lotto 5 - 36 !" href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Loto 5 - 36</h3>
+                           <h3 class="GameTitle" itemprop="name">Lotto 5 - 36</h3>
                            <div class="GameTags"></div>
                         </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="8690041171">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Lotto 7 - 42" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/61404812E80478C5B37414D88D61936B.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0AAFC1C1936C3FC8B6B95399F6852E85.png" alt="BetGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lotto 7 - 42 !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Lotto 7 - 42</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
                      </div>
                   </div>
                </li>
@@ -907,1807 +822,460 @@
          </div>
       </section>
    </div>
+   <div class="GamificationFloatingProgress GamificationProgressCard LoyaltyCard">
+      <player-elevate-loyaltycard player-name="" endpoint="https://pusulabet-com.nwacdn.com" session="11b8fa3e-2251-4fd2-bd25-499d824787d2" language="tr" client-styling-url="/static/css/widgets/gamification-card-mobile/style-1.0.590.css" theme="Dark" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-loyaltycard>
+   </div>
    <div class="RecentWinnersWidget">
       <h2 class="BoxTitle RecentWinnersWidgetTitle"><span>Kazananlar</span></h2>
       <div class="RecentWinnersWidgetContainer Slider SliderSwipe">
          <section class="slider" aria-label="carousel-slider" role="region" tabindex="0" style="box-sizing: border-box; display: block; height: inherit; position: relative; width: 100%;">
-            <div class="slider-frame" style="box-sizing: border-box; display: block; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
-               <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 82px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-860px, 0px, 0px); width: auto; transition: all;">
-                  <div class="slider-slide" aria-label="slide 1 of 100" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+            <div class="slider-frame" style="box-sizing: border-box; display: block; height: 100%; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
+               <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 82px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-8600px, 0px, 0px); width: auto; transition: all;">
+                  <div class="slider-slide" aria-label="slide 1 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 10750px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/74564BB95D0C3943BB884FFC8A8B2C2C.gif"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ozc***ey1</h3>
+                                    <h3 class="RecentWinnerNameText">Dem***424</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">61.790,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Gates of Olympus Dice</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">10.980,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 2 of 100" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="slider-slide" aria-label="slide 2 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 11180px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sugar Rush 1000" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/0E746F46646A1A88457CC0F40418B939.jpg"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="36 Coins™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/F/FFECA69FB1F5896EF90E6CF153D53505.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ata***n98</h3>
+                                    <h3 class="RecentWinnerNameText">Hyp***n14</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">155.710,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sugar Rush 1000</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">3.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">36 Coins™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide slide-visible slide-current" aria-label="slide 3 of 100" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 3 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 11610px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000 Dice" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B7C807965EEC41DD8ABF22A33377E097.optimized.png"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Z***o</h3>
+                                    <h3 class="RecentWinnerNameText">Kar***s78</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">116.505,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Rush 1000</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.544,30</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000 Dice</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 4 of 100" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 4 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12040px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="3 Pots Riches: Hold and Win" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F5E6376859D723F17B805E3CCBCA666F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot Bell Link" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/B/B03AEE0A97E919EC5CBE3F4DE862374C.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hak***218</h3>
+                                    <h3 class="RecentWinnerNameText">Ufu***z80</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">3 Pots Riches: Hold and Win</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">4.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Burning Hot Bell Link</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 5 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 5 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12470px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Immersive Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot 6 Reels" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/4/460FA4DDE4CB6454908E7B9833C1431B.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">M***r</h3>
+                                    <h3 class="RecentWinnerNameText">B***1</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">360.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Immersive Roulette</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Burning Hot 6 Reels</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 6 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 6 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12900px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/74564BB95D0C3943BB884FFC8A8B2C2C.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Cih***027</h3>
+                                    <h3 class="RecentWinnerNameText">Dem***424</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">55.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">10.980,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 7 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 7 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 13330px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="20 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/2B98FFCBFE688B841B102C656417187D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="36 Coins™" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FFECA69FB1F5896EF90E6CF153D53505.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Sev***535</h3>
+                                    <h3 class="RecentWinnerNameText">Hyp***n14</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">20 Burning Hot</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">3.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">36 Coins™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 8 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 8 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 13760px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Angel vs Sinner" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/72F9ED13184902960237699704F3F85F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000 Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B7C807965EEC41DD8ABF22A33377E097.optimized.png" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ol1***678</h3>
+                                    <h3 class="RecentWinnerNameText">Kar***s78</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.037,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Angel vs Sinner</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.544,30</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000 Dice</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 9 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 9 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot Bell Link" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/B/B03AEE0A97E919EC5CBE3F4DE862374C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Fen***a25</h3>
+                                    <h3 class="RecentWinnerNameText">Ufu***z80</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.310,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Bonanza</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">4.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Burning Hot Bell Link</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 10 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 10 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Christmas Big Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/714B301A8137C6C16F11105EA97DDABE.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot 6 Reels" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/4/460FA4DDE4CB6454908E7B9833C1431B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">E***6</h3>
+                                    <h3 class="RecentWinnerNameText">B***1</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Christmas Big Bass Bonanza™</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Burning Hot 6 Reels</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 11 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 11 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/74564BB95D0C3943BB884FFC8A8B2C2C.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ozc***ey1</h3>
+                                    <h3 class="RecentWinnerNameText">Dem***424</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">61.790,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Gates of Olympus Dice</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">10.980,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 12 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 12 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sugar Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/0/0E746F46646A1A88457CC0F40418B939.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="36 Coins™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/F/FFECA69FB1F5896EF90E6CF153D53505.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ata***n98</h3>
+                                    <h3 class="RecentWinnerNameText">Hyp***n14</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">155.710,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sugar Rush 1000</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">3.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">36 Coins™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 13 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 13 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000 Dice" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B7C807965EEC41DD8ABF22A33377E097.optimized.png"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Z***o</h3>
+                                    <h3 class="RecentWinnerNameText">Kar***s78</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">116.505,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Rush 1000</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.544,30</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000 Dice</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 14 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 14 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="3 Pots Riches: Hold and Win" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F5E6376859D723F17B805E3CCBCA666F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot Bell Link" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/B/B03AEE0A97E919EC5CBE3F4DE862374C.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hak***218</h3>
+                                    <h3 class="RecentWinnerNameText">Ufu***z80</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">3 Pots Riches: Hold and Win</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">4.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Burning Hot Bell Link</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 15 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 15 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Immersive Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot 6 Reels" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/4/460FA4DDE4CB6454908E7B9833C1431B.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">M***r</h3>
+                                    <h3 class="RecentWinnerNameText">B***1</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">360.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Immersive Roulette</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Burning Hot 6 Reels</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 16 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6450px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 16 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6450px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/74564BB95D0C3943BB884FFC8A8B2C2C.gif"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Cih***027</h3>
+                                    <h3 class="RecentWinnerNameText">Dem***424</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">55.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">10.980,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 17 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6880px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 17 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6880px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="20 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/2B98FFCBFE688B841B102C656417187D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="36 Coins™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/F/FFECA69FB1F5896EF90E6CF153D53505.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Sev***535</h3>
+                                    <h3 class="RecentWinnerNameText">Hyp***n14</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">20 Burning Hot</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">3.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">36 Coins™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 18 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 7310px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 18 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 7310px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Angel vs Sinner" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/72F9ED13184902960237699704F3F85F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000 Dice" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B7C807965EEC41DD8ABF22A33377E097.optimized.png"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ol1***678</h3>
+                                    <h3 class="RecentWinnerNameText">Kar***s78</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.037,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Angel vs Sinner</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.544,30</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000 Dice</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 19 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 7740px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 19 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 7740px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot Bell Link" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/B/B03AEE0A97E919EC5CBE3F4DE862374C.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Fen***a25</h3>
+                                    <h3 class="RecentWinnerNameText">Ufu***z80</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.310,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Bonanza</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">4.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Burning Hot Bell Link</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 20 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 8170px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 20 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 8170px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Christmas Big Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/714B301A8137C6C16F11105EA97DDABE.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot 6 Reels" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/4/460FA4DDE4CB6454908E7B9833C1431B.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">E***6</h3>
+                                    <h3 class="RecentWinnerNameText">B***1</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Christmas Big Bass Bonanza™</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Burning Hot 6 Reels</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 21 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 8600px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide slide-visible slide-current" aria-label="slide 21 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 8600px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/74564BB95D0C3943BB884FFC8A8B2C2C.gif"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ozc***ey1</h3>
+                                    <h3 class="RecentWinnerNameText">Dem***424</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">61.790,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Gates of Olympus Dice</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">10.980,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 22 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9030px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 22 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9030px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sugar Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/0/0E746F46646A1A88457CC0F40418B939.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="36 Coins™" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FFECA69FB1F5896EF90E6CF153D53505.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ata***n98</h3>
+                                    <h3 class="RecentWinnerNameText">Hyp***n14</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">155.710,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sugar Rush 1000</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">3.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">36 Coins™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 23 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9460px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 23 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9460px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000 Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B7C807965EEC41DD8ABF22A33377E097.optimized.png" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Z***o</h3>
+                                    <h3 class="RecentWinnerNameText">Kar***s78</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">116.505,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Rush 1000</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.544,30</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000 Dice</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 24 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9890px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 24 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9890px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="3 Pots Riches: Hold and Win" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F5E6376859D723F17B805E3CCBCA666F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot Bell Link" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/B/B03AEE0A97E919EC5CBE3F4DE862374C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hak***218</h3>
+                                    <h3 class="RecentWinnerNameText">Ufu***z80</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">3 Pots Riches: Hold and Win</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">4.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Burning Hot Bell Link</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 25 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 10320px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 25 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 10320px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Immersive Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot 6 Reels" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/4/460FA4DDE4CB6454908E7B9833C1431B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">M***r</h3>
+                                    <h3 class="RecentWinnerNameText">B***1</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">360.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Immersive Roulette</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 26 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 10750px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Cih***027</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">55.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Aviator</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 27 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 11180px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="20 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/2B98FFCBFE688B841B102C656417187D.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Sev***535</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">20 Burning Hot</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 28 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 11610px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Angel vs Sinner" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/72F9ED13184902960237699704F3F85F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ol1***678</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.037,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Angel vs Sinner</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 29 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12040px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Fen***a25</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.310,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Bonanza</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 30 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12470px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Christmas Big Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/714B301A8137C6C16F11105EA97DDABE.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">E***6</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Christmas Big Bass Bonanza™</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 31 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12900px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ozc***ey1</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">61.790,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Gates of Olympus Dice</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 32 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 13330px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sugar Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/0/0E746F46646A1A88457CC0F40418B939.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ata***n98</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">155.710,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sugar Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 33 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 13760px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Z***o</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">116.505,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 34 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 14190px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="3 Pots Riches: Hold and Win" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F5E6376859D723F17B805E3CCBCA666F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hak***218</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">3 Pots Riches: Hold and Win</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 35 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 14620px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Immersive Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">M***r</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">360.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Immersive Roulette</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 36 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15050px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Cih***027</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">55.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Aviator</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 37 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15480px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="20 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/2B98FFCBFE688B841B102C656417187D.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Sev***535</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">20 Burning Hot</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 38 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15910px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Angel vs Sinner" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/72F9ED13184902960237699704F3F85F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ol1***678</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.037,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Angel vs Sinner</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 39 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 16340px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Fen***a25</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.310,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Bonanza</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 40 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 16770px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Christmas Big Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/714B301A8137C6C16F11105EA97DDABE.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">E***6</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Christmas Big Bass Bonanza™</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 41 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 17200px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ozc***ey1</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">61.790,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Gates of Olympus Dice</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 42 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 17630px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sugar Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/0/0E746F46646A1A88457CC0F40418B939.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ata***n98</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">155.710,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sugar Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 43 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 18060px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Z***o</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">116.505,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 44 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 18490px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="3 Pots Riches: Hold and Win" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F5E6376859D723F17B805E3CCBCA666F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hak***218</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">3 Pots Riches: Hold and Win</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 45 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 18920px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Immersive Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">M***r</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">360.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Immersive Roulette</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 46 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 19350px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Cih***027</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">55.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Aviator</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 47 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 19780px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="20 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/2B98FFCBFE688B841B102C656417187D.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Sev***535</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">20 Burning Hot</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 48 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 20210px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Angel vs Sinner" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/72F9ED13184902960237699704F3F85F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ol1***678</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.037,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Angel vs Sinner</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 49 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 20640px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Fen***a25</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.310,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Bonanza</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 50 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 21070px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Christmas Big Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/714B301A8137C6C16F11105EA97DDABE.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">E***6</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Christmas Big Bass Bonanza™</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 51 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 21500px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ozc***ey1</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">61.790,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Gates of Olympus Dice</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 52 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 21930px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sugar Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/0/0E746F46646A1A88457CC0F40418B939.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ata***n98</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">155.710,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sugar Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 53 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -20640px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Z***o</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">116.505,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 54 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -20210px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="3 Pots Riches: Hold and Win" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F5E6376859D723F17B805E3CCBCA666F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hak***218</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">3 Pots Riches: Hold and Win</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 55 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -19780px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Immersive Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">M***r</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">360.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Immersive Roulette</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 56 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -19350px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Cih***027</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">55.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Aviator</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 57 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -18920px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="20 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/2B98FFCBFE688B841B102C656417187D.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Sev***535</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">20 Burning Hot</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 58 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -18490px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Angel vs Sinner" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/72F9ED13184902960237699704F3F85F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ol1***678</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.037,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Angel vs Sinner</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 59 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -18060px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Fen***a25</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.310,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Bonanza</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 60 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -17630px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Christmas Big Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/714B301A8137C6C16F11105EA97DDABE.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">E***6</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Christmas Big Bass Bonanza™</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 61 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -17200px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ozc***ey1</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">61.790,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Gates of Olympus Dice</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 62 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -16770px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sugar Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/0/0E746F46646A1A88457CC0F40418B939.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ata***n98</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">155.710,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sugar Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 63 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -16340px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Z***o</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">116.505,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 64 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -15910px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="3 Pots Riches: Hold and Win" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F5E6376859D723F17B805E3CCBCA666F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hak***218</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">3 Pots Riches: Hold and Win</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 65 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -15480px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Immersive Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">M***r</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">360.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Immersive Roulette</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 66 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -15050px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Cih***027</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">55.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Aviator</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 67 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -14620px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="20 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/2B98FFCBFE688B841B102C656417187D.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Sev***535</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">20 Burning Hot</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 68 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -14190px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Angel vs Sinner" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/72F9ED13184902960237699704F3F85F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ol1***678</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.037,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Angel vs Sinner</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 69 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -13760px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Fen***a25</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.310,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Bonanza</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 70 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -13330px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Christmas Big Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/714B301A8137C6C16F11105EA97DDABE.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">E***6</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Christmas Big Bass Bonanza™</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 71 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -12900px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ozc***ey1</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">61.790,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Gates of Olympus Dice</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 72 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -12470px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sugar Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/0/0E746F46646A1A88457CC0F40418B939.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ata***n98</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">155.710,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sugar Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 73 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -12040px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Z***o</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">116.505,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 74 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -11610px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="3 Pots Riches: Hold and Win" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F5E6376859D723F17B805E3CCBCA666F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hak***218</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">3 Pots Riches: Hold and Win</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 75 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -11180px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Immersive Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">M***r</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">360.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Immersive Roulette</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 76 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -10750px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Cih***027</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">55.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Aviator</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 77 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -10320px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="20 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/2B98FFCBFE688B841B102C656417187D.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Sev***535</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">20 Burning Hot</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 78 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9890px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Angel vs Sinner" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/72F9ED13184902960237699704F3F85F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ol1***678</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.037,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Angel vs Sinner</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 79 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9460px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Fen***a25</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.310,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Bonanza</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 80 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9030px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Christmas Big Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/714B301A8137C6C16F11105EA97DDABE.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">E***6</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Christmas Big Bass Bonanza™</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 81 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -8600px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ozc***ey1</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">61.790,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Gates of Olympus Dice</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 82 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -8170px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sugar Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/0/0E746F46646A1A88457CC0F40418B939.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ata***n98</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">155.710,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sugar Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 83 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -7740px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Z***o</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">116.505,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 84 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -7310px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="3 Pots Riches: Hold and Win" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F5E6376859D723F17B805E3CCBCA666F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hak***218</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">3 Pots Riches: Hold and Win</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 85 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6880px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Immersive Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">M***r</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">360.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Immersive Roulette</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 86 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6450px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Cih***027</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">55.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Aviator</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 87 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="20 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/2B98FFCBFE688B841B102C656417187D.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Sev***535</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">20 Burning Hot</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 88 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Angel vs Sinner" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/72F9ED13184902960237699704F3F85F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ol1***678</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.037,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Angel vs Sinner</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 89 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Fen***a25</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.310,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Bonanza</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 90 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Christmas Big Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/714B301A8137C6C16F11105EA97DDABE.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">E***6</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Christmas Big Bass Bonanza™</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 91 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ozc***ey1</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">61.790,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Gates of Olympus Dice</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 92 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sugar Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/0/0E746F46646A1A88457CC0F40418B939.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ata***n98</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">155.710,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sugar Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 93 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Rush 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Z***o</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">116.505,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Rush 1000</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 94 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="3 Pots Riches: Hold and Win" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F5E6376859D723F17B805E3CCBCA666F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hak***218</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">3 Pots Riches: Hold and Win</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 95 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Immersive Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">M***r</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">360.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Immersive Roulette</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 96 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Cih***027</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">55.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Aviator</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 97 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="20 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/2B98FFCBFE688B841B102C656417187D.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Sev***535</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">20 Burning Hot</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 98 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Angel vs Sinner" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/72F9ED13184902960237699704F3F85F.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ol1***678</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.037,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Angel vs Sinner</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 99 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Fen***a25</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.310,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Jojo Bonanza</h4>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                  <div class="slider-slide" aria-label="slide 100 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                     <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
-                           <div class="RecentWinnerItemContainer">
-                              <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Christmas Big Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/714B301A8137C6C16F11105EA97DDABE.jpg" class="PictureImg LazyImage"></figure>
-                              </div>
-                              <div class="RecentWinnerDescription">
-                                 <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">E***6</h3>
-                                 </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Christmas Big Bass Bonanza™</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Burning Hot 6 Reels</h4>
                               </div>
                            </div>
                         </a>
