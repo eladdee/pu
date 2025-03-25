@@ -1,5 +1,5 @@
 <?php if(isset($us['id'])){ ?>
-   <section class="SectionContent ">
+   <section class="SectionContent " style="background: #fff;">
    <div class="ContentWrapper TextPageWrapper ComponentLayout Layout CmsStaticPage">
       <span id="ch_529126334" class="">
          <style> .SectionContent { padding-bottom: 0 !important;} .TextPageWrapper { max-width: 100% !important;padding: 0 !important;} .SectionContent .CmsStaticPage p {margin-bottom: 0 !important;font-size: 0 !important;} </style>
