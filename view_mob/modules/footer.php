@@ -684,10 +684,10 @@
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Casino</p>
       </div>
       <div class="NavigationPrimaryItemAnchor NavItem3 " part="NavigationPrimaryItemAnchor ">
-         <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/4" alt="20.000.000 TL"></div>
+         <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/4.svg" alt="20.000.000 TL"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">20.000.000 TL</p>
       </div>
-      <button class="NavigationButton " onclick="openbottommenu()" part="NavigationButton "><span part="NavigationButtonSpan"><img src="/stateless-pusulabet-one/2024/10/5.svg" class="middleIcon" alt="/stateless-pusulabet-one/2024/10/5.svg"></span></button>
+      <button class="NavigationButton " onclick="openbottommenu()" part="NavigationButton "><span part="NavigationButtonSpan"><img src="/stateless-pusulabet-one/2024/09/5.svg" class="middleIcon" alt="/stateless-pusulabet-one/2024/09/5.svg"></span></button>
    </div>
 </div>
 </div>
