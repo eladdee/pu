@@ -1,12 +1,12 @@
-https://jojobbet1016.com/,jojobet
-https://jojobbet1016.com/,jojobet giris
-https://jojobbet1016.com/,jojobet güncel
-https://jojobbet1016.com/,jojobet güncel giris
-https://jojobbet1016.com/,jojobet 1016 com giris
-https://jojobbet1016.com/,jojobet1016 com
-https://jojobbet1016.com/,jojobet1016 com tr
-https://jojobbet1016.com/,jojobet 1016.com
-https://jojobbet1016.com/,jojobet 1016 giris
-https://jojobbet1016.com/,jojobet hizli giris
-https://jojobbet1016.com/,jojobet 1016 hizli giris
-https://jojobbet1016.com/,jojobet 1016com
+https://pusullabet880.com/,pusulabet
+https://pusullabet880.com/,pusulabet giris
+https://pusullabet880.com/,pusulabet güncel
+https://pusullabet880.com/,pusulabet güncel giris
+https://pusullabet880.com/,pusulabet 880 com giris
+https://pusullabet880.com/,pusulabet880 com
+https://pusullabet880.com/,pusulabet880 com tr
+https://pusullabet880.com/,pusulabet 880.com
+https://pusullabet880.com/,pusulabet 880 giris
+https://pusullabet880.com/,pusulabet hizli giris
+https://pusullabet880.com/,pusulabet 880 hizli giris
+https://pusullabet880.com/,pusulabet 880com

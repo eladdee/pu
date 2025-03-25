@@ -671,19 +671,19 @@
       </div>
    </div>
    <div class="NavigationBar  " part="NavigationBar  ">
-      <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor ">
+      <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = 'https://direct.lc.chat/16139457/'">
          <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/1.svg" alt="7/24 Canlı Destek"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">7/24 Canlı Destek</p>
       </div>
-      <div class="NavigationPrimaryItemAnchor NavItem1 " part="NavigationPrimaryItemAnchor ">
+      <div class="NavigationPrimaryItemAnchor NavItem1 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/casino'">
          <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/2.svg" alt="Casino"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Casino</p>
       </div>
-      <div class="NavigationPrimaryItemAnchor NavItem2 " part="NavigationPrimaryItemAnchor ">
+      <div class="NavigationPrimaryItemAnchor NavItem2 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/livecasino'">
          <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/3.svg" alt="Canlı Casino"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Casino</p>
       </div>
-      <div class="NavigationPrimaryItemAnchor NavItem3 " part="NavigationPrimaryItemAnchor ">
+      <div class="NavigationPrimaryItemAnchor NavItem3 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/tournaments'">
          <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/4.svg" alt="20.000.000 TL"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">20.000.000 TL</p>
       </div>
@@ -962,11 +962,7 @@ function loginorpay(){
 <!-- LiveChat Kodunuz Sonu -->
 
 <!-- Widget hazır olduğunda gizlemek için ek kod -->
-<script>
-    window.LiveChatWidget && window.LiveChatWidget.on('ready', function(){
-        window.LiveChatWidget.call('hide');
-    });
-</script>
+
 
 
    </body>
