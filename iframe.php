@@ -34,41 +34,7 @@
   <!-- jQuery (isteğe bağlı, aşağıdaki kod jQuery hazır olduğunda çalışır) -->
   <!-- Splide JS -->
   <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
-  <style>
-    /* Slider içindeki resimlerin genişliği tam olsun */
-    .splide__slide img {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
-    /* Ok butonları için örnek stil */
-    .splide__arrow {
-      background: rgba(0, 0, 0, 0.5);
-      color: #fff;
-      border: none;
-      padding: 10px;
-      cursor: pointer;
-    }
-  </style>
-
-      <link rel="import" href="https://bannermatrix.nwacdn.com/assets/widgets/0.22.6/index.html">
-      <meta name="description" content="Spor Bahisleri" data-react-helmet="true">
-      <meta name="keywords" content="Spor Bahisleri" data-react-helmet="true">
-      <script>
-    // jQuery hazır olduğunda Splide slider'ı başlatıyoruz
-    $(document).ready(function(){
-      var splide = new Splide('#primary-slider', {
-        type       : 'loop',      // Sonsuz döngü
-        perPage    : 1,           // Aynı anda 1 slayt göster
-        autoplay   : true,        // Otomatik oynatma
-        interval   : 3000,        // 3000 ms (3 saniye) aralık
-        pauseOnHover: true,       // Fare üzerine gelince duraksat
-        arrows     : true,        // Ok butonlarını aktif et
-        pagination : true         // Nokta navigasyonunu aktif et
-      });
-      splide.mount();
-    });
-  </script>
+  
       
    </head>
    <body class="Lang-tr PartialSsr Desktop Windows Chrome Page-Home">
