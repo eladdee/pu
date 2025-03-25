@@ -234,9 +234,9 @@
       </div>
       <div class="footer-main-col">
          <ul class="footer-nav-list">
-            <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/tr/iletisim"><span class="AnchorText">İLETİŞİM</span></a></li>
-            <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/tr/hakkimizda"><span class="AnchorText">HAKKIMIZDA</span></a></li>
-            <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/tr/genel-kurallar-ve-sartlar"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
+            <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/iletisim"><span class="AnchorText">İLETİŞİM</span></a></li>
+            <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/hakkimizda"><span class="AnchorText">HAKKIMIZDA</span></a></li>
+            <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/genel-kurallar-ve-sartlar"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
          </ul>
       </div>
       <div class="footer-main-col footer-externalPaymentMethods">
@@ -680,14 +680,14 @@
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Casino</p>
       </div>
       <div class="NavigationPrimaryItemAnchor NavItem2 " part="NavigationPrimaryItemAnchor ">
-         <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/95f81345-shutterstock_1470004847-converted.svg" alt="Canlı Casino"></div>
+         <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/3.svg" alt="Canlı Casino"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Casino</p>
       </div>
       <div class="NavigationPrimaryItemAnchor NavItem3 " part="NavigationPrimaryItemAnchor ">
-         <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/883ead71-shutterstock_2472194059-converted.svg" alt="20.000.000 TL"></div>
+         <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-pusulabet-one/2024/09/4" alt="20.000.000 TL"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">20.000.000 TL</p>
       </div>
-      <button class="NavigationButton " onclick="openbottommenu()" part="NavigationButton "><span part="NavigationButtonSpan"><img src="/stateless-pusulabet-one/2024/10/8373e537-app-01.svg" class="middleIcon" alt="/stateless-pusulabet-one/2024/10/8373e537-app-01.svg"></span></button>
+      <button class="NavigationButton " onclick="openbottommenu()" part="NavigationButton "><span part="NavigationButtonSpan"><img src="/stateless-pusulabet-one/2024/10/5.svg" class="middleIcon" alt="/stateless-pusulabet-one/2024/10/5.svg"></span></button>
    </div>
 </div>
 </div>
