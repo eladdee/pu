@@ -26,15 +26,229 @@
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-status-bar-style" content="black">
       <link rel="search" type="application/opensearchdescription+xml" href="/static/xml/opensearch.xml" title="Search the Operator">
-      <style type="text/css">body,html{font-size:10px}#PageSpinner{position:fixed;margin:0;padding:0;display:flex;justify-content:center;align-items:center;width:100%;height:100vh;background:var(--PageSpinner-background);z-index:9999999;visibility:visible;opacity:1}#PageSpinner.Hide{visibility:hidden;opacity:0;transition:visibility .3s linear,opacity .3s linear}#PageSpinner .MainIcon{display:block;animation:slideMainIcon 2s infinite;width:150px}@keyframes slideMainIcon{from{transform:translateY(-15px)}50%{transform:translateY(5px)}to{transform:translateY(-15px)}}#PageSpinner .LoadingScreen{position:relative;width:250px;height:250px;border-radius:50%;background:linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to));animation:animateLoadingScreen 1.2s linear infinite}@keyframes animateLoadingScreen{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}#PageSpinner .LoadingScreen span{position:absolute;width:100%;height:100%;border-radius:50%;background:linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to))}#PageSpinner .LoadingScreen span:nth-child(1){filter:blur(5px)}#PageSpinner .LoadingScreen span:nth-child(2){filter:blur(10px)}#PageSpinner .LoadingScreen span:nth-child(3){filter:blur(25px)}#PageSpinner .LoadingScreen span:nth-child(4){filter:blur(100px)}#PageSpinner .LoadingScreen:after{content:"";position:absolute;top:10px;left:10px;right:10px;bottom:10px;background:var(--Circle-background);border-radius:50%;opacity:.9}#PageSpinner .Logo{z-index:1;position:absolute}@keyframes animateCircleSpin{from{stroke-dashoffset:2512}to{stroke-dashoffset:0}}#PageSpinner .Circle{position:absolute;top:50%;left:50%;overflow:visible!important;transform:translate3d(-50%,-50%,0) rotate(-90deg);transform-origin:center}#PageSpinner .Circle circle{fill:#fff0;stroke-width:4;stroke-dasharray:1256}#PageSpinner .Circle circle:first-of-type{stroke:rgb(255 255 255 / .1)}#PageSpinner .Circle circle:nth-of-type(2){stroke:var(--Circle-color);animation:animateCircleSpin infinite cubic-bezier(.39,.575,.565,1) 4s}.MRIExpand{width:100%;max-height:calc(100vh - env(safe-area-inset-top) - 3rem);overflow:auto;position:fixed;top:0;padding-top:calc(env(safe-area-inset-top) + 3rem);background-color:#fff;z-index:9999}.MRIExpand.Hidden{display:none}.MRIExpand table{width:100%}.MRIExpand table tr:nth-child(odd){background-color:#dedede}.MRIExpand table tr:nth-child(even){background-color:#ccc}.MRIExpand table td,.MRIExpand table th{padding:.1rem .5rem;border-collapse:collapse;border:1px solid #b3b3b3}.MRIExpand .MRIClose{position:absolute;right:0;background:0 0;font-size:18px;border-radius:5rem;width:3rem;height:3rem;line-height:14px;top:calc(env(safe-area-inset-top) + 0px);padding:0}.RootContent{position:relative;min-height:100vh}.AppVersion{position:absolute;bottom:.5rem;left:50%;transform:translateX(-50%);font-size:10px;color:#fff;text-shadow:1px 1px 1px #000;z-index:5}.LoadingScreen .AppVersion{position:fixed}.BrowserUpgrade{display:block;padding:1rem;background:#fff;color:#000;border:1px solid #f33}</style>
-      <style type="text/css">:root{
-         --PageSpinner-background: #0e1f04;
-         --Circle-background: #0e1f04;
-         --LoadingScreen-color-from: #F5C51F;
-         --LoadingScreen-color-to: #F49920;
-         --Circle-color: rgba(244, 129, 32, 1);
-         }
-      </style>
+      <style type="text/css">
+            body,html {
+                font-size: 10px
+            }
+
+            #PageSpinner {
+                position: fixed;
+                margin: 0;
+                padding: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 100%;
+                height: 100vh;
+                background: var(--PageSpinner-background);
+                z-index: 9999999;
+                visibility: visible;
+                opacity: 1
+            }
+
+            #PageSpinner.Hide {
+                visibility: hidden;
+                opacity: 0;
+                transition: visibility .3s linear,opacity .3s linear
+            }
+
+            #PageSpinner .MainIcon {
+                display: block;
+                animation: slideMainIcon 2s infinite;
+                width: 150px
+            }
+
+            @keyframes slideMainIcon {
+                from {
+                    transform: translateY(-15px)
+                }
+
+                50% {
+                    transform: translateY(5px)
+                }
+
+                to {
+                    transform: translateY(-15px)
+                }
+            }
+
+            #PageSpinner .LoadingScreen {
+                position: relative;
+                width: 250px;
+                height: 250px;
+                border-radius: 50%;
+                background: linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to));
+                animation: animateLoadingScreen 1.2s linear infinite
+            }
+
+            @keyframes animateLoadingScreen {
+                0% {
+                    transform: rotate(0deg)
+                }
+
+                100% {
+                    transform: rotate(360deg)
+                }
+            }
+
+            #PageSpinner .LoadingScreen span {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                border-radius: 50%;
+                background: linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to))
+            }
+
+            #PageSpinner .LoadingScreen span:nth-child(1) {
+                filter: blur(5px)
+            }
+
+            #PageSpinner .LoadingScreen span:nth-child(2) {
+                filter: blur(10px)
+            }
+
+            #PageSpinner .LoadingScreen span:nth-child(3) {
+                filter: blur(25px)
+            }
+
+            #PageSpinner .LoadingScreen span:nth-child(4) {
+                filter: blur(100px)
+            }
+
+            #PageSpinner .LoadingScreen:after {
+                content: "";
+                position: absolute;
+                top: 10px;
+                left: 10px;
+                right: 10px;
+                bottom: 10px;
+                background: var(--Circle-background);
+                border-radius: 50%;
+                opacity: .9
+            }
+
+            #PageSpinner .Logo {
+                z-index: 1;
+                position: absolute
+            }
+
+            @keyframes animateCircleSpin {
+                from {
+                    stroke-dashoffset: 2512
+                }
+
+                to {
+                    stroke-dashoffset: 0
+                }
+            }
+
+            #PageSpinner .Circle {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                overflow: visible!important;
+                transform: translate3d(-50%,-50%,0) rotate(-90deg);
+                transform-origin: center
+            }
+
+            #PageSpinner .Circle circle {
+                fill: #fff0;
+                stroke-width: 4;
+                stroke-dasharray: 1256
+            }
+
+            #PageSpinner .Circle circle:first-of-type {
+                stroke: rgb(255 255 255 / .1)
+            }
+
+            #PageSpinner .Circle circle:nth-of-type(2) {
+                stroke: var(--Circle-color);
+                animation: animateCircleSpin infinite cubic-bezier(.39,.575,.565,1) 4s
+            }
+
+            .MRIExpand {
+                width: 100%;
+                max-height: calc(100vh - env(safe-area-inset-top) - 3rem);
+                overflow: auto;
+                position: fixed;
+                top: 0;
+                padding-top: calc(env(safe-area-inset-top) + 3rem);
+                background-color: #fff;
+                z-index: 9999
+            }
+
+            .MRIExpand.Hidden {
+                display: none
+            }
+
+            .MRIExpand table {
+                width: 100%
+            }
+
+            .MRIExpand table tr:nth-child(odd) {
+                background-color: #dedede
+            }
+
+            .MRIExpand table tr:nth-child(even) {
+                background-color: #ccc
+            }
+
+            .MRIExpand table td,.MRIExpand table th {
+                padding: .1rem .5rem;
+                border-collapse: collapse;
+                border: 1px solid #b3b3b3
+            }
+
+            .MRIExpand .MRIClose {
+                position: absolute;
+                right: 0;
+                background: 0 0;
+                font-size: 18px;
+                border-radius: 5rem;
+                width: 3rem;
+                height: 3rem;
+                line-height: 14px;
+                top: calc(env(safe-area-inset-top) + 0px);
+                padding: 0
+            }
+
+            .RootContent {
+                position: relative;
+                min-height: 100vh
+            }
+
+            .AppVersion {
+                position: absolute;
+                bottom: .5rem;
+                left: 50%;
+                transform: translateX(-50%);
+                font-size: 10px;
+                color: #fff;
+                text-shadow: 1px 1px 1px #000;
+                z-index: 5
+            }
+
+            .LoadingScreen .AppVersion {
+                position: fixed
+            }
+
+            .BrowserUpgrade {
+                display: block;
+                padding: 1rem;
+                background: #fff;
+                color: #000;
+                border: 1px solid #f33
+            }
+        </style>
+        <style type="text/css">
+            :root {
+                --PageSpinner-background: #161a2a;
+                --Circle-background: #161a2a;
+                --LoadingScreen-color-from: #ffac2c;
+                --LoadingScreen-color-to: #FFF;
+                --Circle-color: rgba(255, 172, 44, 1);
+            }
+        </style>
       <style data-styles="">casino-play-random-game{visibility:hidden}.hydrated{visibility:inherit}</style>
       <title><?=$title?></title>
       <meta name="description" content="<?=$title?>Pusulabet Türkiye'nin en iyi spor bahisleri ve casino sitesidir.">
