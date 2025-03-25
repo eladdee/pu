@@ -830,7 +830,7 @@
                                  </div>
                               </div>
                            </div>
-                           <div class="HamburgerSubMenu dnone" id="hm1" onclick="window.location.href='/'">
+                           <div class="HamburgerSubMenu" id="hm1" onclick="window.location.href='/'">
                               <div class="subMenuHeaderWrapper">
                                  <om-search id="SportsSearch" config-rewrites="{&quot;icons&quot;: { &quot;general&quot;: { &quot;icons&quot;: { &quot;recycle&quot;: &quot;https://www.pusulabet880.com/static/img/close.svg&quot;}}}}" custom-route="/tr/sports/i/" match-route="true" search-limit="8" search-pagination="true" search-placeholder="Müsabaka Ara" search-route="true" search-type="MATCH">
                                     <div class="Search">
