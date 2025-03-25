@@ -1,4 +1,4 @@
-<section class="SectionContent ">
+<section class="SectionContent "style="background: #fff">
    <div class="ContentWrapper TextPageWrapper ComponentLayout Layout CmsStaticPage">
       <span id="ch_2091889045" class="">
          <p>Her türlü soru ve görüşleriniz için bizlere aşağıdaki e-posta adreslerinden ulaşabilirsiniz:<br>

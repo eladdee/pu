@@ -1,4 +1,4 @@
-<section class="SectionContent ">
+<section class="SectionContent "style="background: #fff">
    <div class="ContentWrapper TextPageWrapper ComponentLayout Layout CmsStaticPage">
       <span id="ch_1522087869" class="">
          <p>PUSULABET, Malta merkezli yönetilmektedir. Sitenin alt yapısı EVERYMATRIX tarafından sağlanmaktadır.</p>
