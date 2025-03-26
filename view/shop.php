@@ -30,17 +30,5 @@
          Loyalty History
       </a>
    </div>
-   <div class="GamificationWrapper">
-      <div class="GamificationProgress GamificationLeftSide">
-         <div class="GamificationProgressCard LoyaltyCard">
-            <player-elevate-loyaltycard player-name="" endpoint="https://pusulabet-com.nwacdn.com" session="32ccadb5-0ae6-4bf5-b95f-546c6af060db" language="tr" client-styling-url="https://www.pusulabet879.com/static/css/widgets/gamification-card/style-1.0.590.css" theme="Dark" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-loyaltycard>
-         </div>
-         <div class="GamificationProgressCard PointCard">
-            <player-elevate-pointcard player-name="" endpoint="https://pusulabet-com.nwacdn.com" session="32ccadb5-0ae6-4bf5-b95f-546c6af060db" language="tr" client-styling-url="https://www.pusulabet879.com/static/css/widgets/gamification-card/style-1.0.590.css" theme="Dark" button-type="earningRule" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-pointcard>
-         </div>
-      </div>
-      <div class="GamificationContent">
-         <bonus-elevate-shop endpoint="https://pusulabet-com.nwacdn.com" session="32ccadb5-0ae6-4bf5-b95f-546c6af060db" language="tr" client-styling-url="https://www.pusulabet879.com/static/css/widgets/gamification-shop/style-1.0.590.css" translation-url="https://www.pusulabet879.com/static/widgets/gamification-shop/translations/data.json" client-styling="" class="hydrated"></bonus-elevate-shop>
-      </div>
-   </div>
+  
 </section>

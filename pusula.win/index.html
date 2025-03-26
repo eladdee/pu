@@ -8,12 +8,7 @@
   <link
     href="/pusula.win/assets/css/weekly/bootstrap.min.css"  rel="stylesheet"/>
 
-  <script src="/pusula.win/assets/js/weekly/bootstrap.bundle.min.js"></script>
 
-  <script src="/pusula.win/assets/js/weekly/jquery-3.6.4.min.js"></script>
-  <script src="/pusula.win/assets/js/weekly/jquery-ui.js"></script>
-
-  <script src="/pusula.win/assets/js/weekly.js"></script>
 
 </head>
 <body>
@@ -147,59 +142,5 @@
 </div>
 </body>
 
-<script>
-  $(document).ready(function () {
 
-    $('.modal-item-name').on('click', function () {
-      let code = $('.modal-code');
-      var range = document.createRange();
-      range.selectNode(code[0]);
-      var selection = window.getSelection();
-      selection.removeAllRanges();
-      selection.addRange(range);
-      try {
-        document.execCommand('copy');
-        // Kopyalanan değeri mesaj olarak ekle
-        var copiedText = $('.modal-code').text();
-        $(this).siblings('.copy-message').text('Kod kopyalandı: ' + copiedText).show();
-      } catch (err) {
-        console.log('Kopyalama başarısız', err);
-      }
-
-      // Seçimi temizle
-      selection.removeAllRanges();
-    });
-
-    $('.gift-button a').on('click', function (e) {
-      let day = $(this).closest('.gift-button').attr('id');
-      $('.modal-img').attr('src', $(this).parent().parent().parent().find('.gift-img').attr('src'));
-      e.preventDefault();
-      $.ajax({
-        url: 'https://pusula.win/code/check',
-        type: 'POST',
-        data: {
-          user_name: 'harun235',
-          day: day,
-        },
-        headers: {
-          'X-CSRF-TOKEN': 'trvUkVOPSf6H40Y29kDvQdRlHEG5ZHKoDx9sqbGt', // Use the fetched CSRF token here
-          '_method': 'patch',
-        },
-        success: function (response) {
-          if (response.error) {
-            $('.modal-item-desc').hide();
-            $('.modal-item-name').text(response.error);
-          }
-          if (response.code) {
-            let data = "Kodunuz:<span class='modal-code'>" + response.code + "</span>";
-            $('.modal-item-name').append(data);
-          } else {
-            $('.modal-item-name').text('Kod alamazsınız.');
-          }
-          $('#PointShopModal').modal('show');
-        }
-      });
-    });
-  });
-</script>
 </html>

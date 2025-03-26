@@ -33,11 +33,7 @@
     </script>
      
       <script>
-         window.customBuildVars = {
-           appName: 'jojobet-prod',
-           appVersion: '1.0.798',
-           disableBrowserConsole: false,
-         };
+       
          $(document).ready(function(){
     setTimeout(function(){
       $("#PageSpinner").addClass("Hide");

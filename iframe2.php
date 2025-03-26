@@ -38,9 +38,7 @@
   </style>
       <meta name="description" content="Spor Bahisleri" data-react-helmet="true">
       <meta name="keywords" content="Spor Bahisleri" data-react-helmet="true">
-      <script>
-   
-  </script>
+      
    </head>
    <body class="Lang-tr PartialSsr Mobile IOs Safari Page-Home">
       <div id="MainContainer">
@@ -105,13 +103,13 @@
                         <div class="OM-Slider__Scroll">
                            <div class="OM-Slider__Container" style="transform: translateX(-180px);">
                               <div class="OM-Slider__Item">
-                                 <bannermatrix-banner class="BannerNavbar BannerWidgetColorPack" operator-id="2331" webapi-realm="www.pusulabet.com" webapi-url="wss://sportsapi.pusulabet880.com/v2" page-tag="home-page" position-tag="center-navbar" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="11b8fa3e-2251-4fd2-bd25-499d824787d2" class-name="" translate="{}"></bannermatrix-banner>
+                                 <bannermatrix-banner class="BannerNavbar BannerWidgetColorPack" operator-id="2331" webapi-realm="#" webapi-url="#" page-tag="home-page" position-tag="center-navbar" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="11b8fa3e-2251-4fd2-bd25-499d824787d2" class-name="" translate="{}"></bannermatrix-banner>
                               </div>
                               <div class="OM-Slider__Item">
-                                 <bannermatrix-banner class="BannerNavbar BannerNavbar2 BannerWidgetColorPack" operator-id="2331" webapi-realm="www.pusulabet.com" webapi-url="wss://sportsapi.pusulabet880.com/v2" page-tag="home-page" position-tag="center-navbar-2" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="11b8fa3e-2251-4fd2-bd25-499d824787d2" class-name="" translate="{}"></bannermatrix-banner>
+                                 <bannermatrix-banner class="BannerNavbar BannerNavbar2 BannerWidgetColorPack" operator-id="2331" webapi-realm="#" webapi-url="#" page-tag="home-page" position-tag="center-navbar-2" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="11b8fa3e-2251-4fd2-bd25-499d824787d2" class-name="" translate="{}"></bannermatrix-banner>
                               </div>
                               <div class="OM-Slider__Item">
-                                 <bannermatrix-banner class="BannerNavbar BannerNavbar3 BannerWidgetColorPack" operator-id="2331" webapi-realm="www.pusulabet.com" webapi-url="wss://sportsapi.pusulabet880.com/v2" page-tag="home-page" position-tag="center-navbar-3" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="11b8fa3e-2251-4fd2-bd25-499d824787d2" class-name="" translate="{}"></bannermatrix-banner>
+                                 <bannermatrix-banner class="BannerNavbar BannerNavbar3 BannerWidgetColorPack" operator-id="2331" webapi-realm="#" webapi-url="#" page-tag="home-page" position-tag="center-navbar-3" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="11b8fa3e-2251-4fd2-bd25-499d824787d2" class-name="" translate="{}"></bannermatrix-banner>
                               </div>
                               <div class="OM-Slider__Item"><a href="javascript:;" onclick="loginorpay()" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--1 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;/static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/1.svg&quot;);"></span></span><span class="OM-NavItem__Name">Futbol</span><span class="OM-NavItem__Counter">25</span></a></div>
                               <div class="OM-Slider__Item"><a href="javascript:;" onclick="loginorpay()" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--8 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;/static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/8.svg&quot;);"></span></span><span class="OM-NavItem__Name">Basketbol</span><span class="OM-NavItem__Counter">13</span></a></div>
@@ -173,7 +171,7 @@
                      </div>
                   </div>
                </div>
-               <bannermatrix-banner class="BannerWidgetMainSlider BannerWidgetColorPack" operator-id="2331" webapi-realm="www.pusulabet.com" webapi-url="wss://sportsapi.pusulabet880.com/v2" page-tag="home-page" position-tag="center-main-slider" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="11b8fa3e-2251-4fd2-bd25-499d824787d2" class-name="" translate="{}">
+               <bannermatrix-banner class="BannerWidgetMainSlider BannerWidgetColorPack" operator-id="2331" webapi-realm="#" webapi-url="#" page-tag="home-page" position-tag="center-main-slider" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="11b8fa3e-2251-4fd2-bd25-499d824787d2" class-name="" translate="{}">
 
  <style scope="bannermatrix-banner">.fullwidth {
    width:100%;
@@ -1736,7 +1734,7 @@
                                  <div id="groupslidebanner">
                                     <div class="detail" id="detail">
                                        <div>
-                                          <div class="no_link_btn"><button class="bgButton btLink btLink109944" onclick="this.getRootNode().host.handleClick('https://www.pusulabet880.com/promotions', '_parent', '109944', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
+                                          <div class="no_link_btn"><button class="bgButton btLink btLink109944" onclick="this.getRootNode().host.handleClick('/promotions', '_parent', '109944', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
                                        </div>
                                     </div>
                                  </div>
@@ -1758,7 +1756,7 @@
                                  <div id="groupslidebanner">
                                     <div class="detail" id="detail">
                                        <div>
-                                          <div class="no_link_btn"><button class="bgButton btLink btLink113493" onclick="this.getRootNode().host.handleClick('https://www.pusulabet880.com/level', '_parent', '113493', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
+                                          <div class="no_link_btn"><button class="bgButton btLink btLink113493" onclick="this.getRootNode().host.handleClick('/level', '_parent', '113493', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
                                        </div>
                                     </div>
                                  </div>
@@ -1822,7 +1820,7 @@
                                  <div id="groupslidebanner">
                                     <div class="detail" id="detail">
                                        <div>
-                                          <div class="no_link_btn"><button class="bgButton btLink btLink108072" onclick="this.getRootNode().host.handleClick('https://www.pusulabet880.com/cat/egt-digital', '_parent', '108072', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')"></button></div>
+                                          <div class="no_link_btn"><button class="bgButton btLink btLink108072" onclick="this.getRootNode().host.handleClick('/cat/egt-digital', '_parent', '108072', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')"></button></div>
                                        </div>
                                     </div>
                                  </div>
@@ -1844,7 +1842,7 @@
                                  <div id="groupslidebanner">
                                     <div class="detail" id="detail">
                                        <div>
-                                          <div class="no_link_btn"><button class="bgButton btLink btLink83252" onclick="this.getRootNode().host.handleClick('https://www.pusulabet880.com/pusula-win', '_parent', '83252', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
+                                          <div class="no_link_btn"><button class="bgButton btLink btLink83252" onclick="this.getRootNode().host.handleClick('/pusula-win', '_parent', '83252', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
                                        </div>
                                     </div>
                                  </div>
@@ -3065,7 +3063,7 @@
                      <button class="OM-Button OM-Button--ghost OM-Button--md MatchList__MainButton">Daha fazla</button>
                   </div>
                </div>
-               <bannermatrix-banner class="BannerWidgetAboveFooter BannerWidgetColorPack" operator-id="2331" webapi-realm="www.pusulabet.com" webapi-url="wss://sportsapi.pusulabet880.com/v2" page-tag="home-page" position-tag="center-above-footer" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="11b8fa3e-2251-4fd2-bd25-499d824787d2" class-name="" translate="{}"></bannermatrix-banner>
+               <bannermatrix-banner class="BannerWidgetAboveFooter BannerWidgetColorPack" operator-id="2331" webapi-realm="#" webapi-url="#" page-tag="home-page" position-tag="center-above-footer" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="11b8fa3e-2251-4fd2-bd25-499d824787d2" class-name="" translate="{}"></bannermatrix-banner>
             </section>
          </div>
       </div>

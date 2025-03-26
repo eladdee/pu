@@ -579,7 +579,7 @@
                      </div>
                   </div>
                </div>
-               <bannermatrix-banner class="BannerWidgetMainSlider BannerWidgetColorPack" operator-id="2331" webapi-realm="www.pusulabet.com" webapi-url="wss://sportsapi.pusulabet879.com/v2" page-tag="home-page" position-tag="center-main-slider" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}">
+               <bannermatrix-banner class="BannerWidgetMainSlider BannerWidgetColorPack" operator-id="2331" webapi-realm="#" webapi-url="#" page-tag="home-page" position-tag="center-main-slider" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}">
                <style scope="bannermatrix-banner">.fullwidth {
                   width:100%;
                   }
@@ -2142,7 +2142,7 @@
                                                 <div id="groupslidebanner">
                                                    <div class="detail" id="detail">
                                                       <div>
-                                                         <div class="no_link_btn"><button class="bgButton btLink btLink109944" onclick="this.getRootNode().host.handleClick('https://sports2.pusulabet879.com/promotions', '_parent', '109944', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
+                                                         <div class="no_link_btn"><button class="bgButton btLink btLink109944" onclick="this.getRootNode().host.handleClick('/promotions', '_parent', '109944', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -2164,7 +2164,7 @@
                                                 <div id="groupslidebanner">
                                                    <div class="detail" id="detail">
                                                       <div>
-                                                         <div class="no_link_btn"><button class="bgButton btLink btLink113493" onclick="this.getRootNode().host.handleClick('https://sports2.pusulabet879.com/level', '_parent', '113493', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')"></button></div>
+                                                         <div class="no_link_btn"><button class="bgButton btLink btLink113493" onclick="this.getRootNode().host.handleClick('/level', '_parent', '113493', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')"></button></div>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -2206,7 +2206,7 @@
                                                 <div id="groupslidebanner">
                                                    <div class="detail" id="detail">
                                                       <div>
-                                                         <div class="no_link_btn"><button class="bgButton btLink btLink108072" onclick="this.getRootNode().host.handleClick('https://sports2.pusulabet879.com/cat/egt-digital', '_parent', '108072', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
+                                                         <div class="no_link_btn"><button class="bgButton btLink btLink108072" onclick="this.getRootNode().host.handleClick('/cat/egt-digital', '_parent', '108072', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -2228,7 +2228,7 @@
                                                 <div id="groupslidebanner">
                                                    <div class="detail" id="detail">
                                                       <div>
-                                                         <div class="no_link_btn"><button class="bgButton btLink btLink83252" onclick="this.getRootNode().host.handleClick('https://sports2.pusulabet879.com/pusula-win', '_parent', '83252', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
+                                                         <div class="no_link_btn"><button class="bgButton btLink btLink83252" onclick="this.getRootNode().host.handleClick('/pusula-win', '_parent', '83252', 'center-main-slider', 'home-page', 'null', 'null', 'null', 'null')" tabindex="-1"></button></div>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -4057,7 +4057,7 @@
                      <button class="OM-Button OM-Button--ghost OM-Button--md MatchList__MainButton">Daha fazla</button>
                   </div>
                </div>
-               <bannermatrix-banner class="BannerWidgetAboveFooter BannerWidgetColorPack" operator-id="2331" webapi-realm="www.pusulabet.com" webapi-url="wss://sportsapi.pusulabet879.com/v2" page-tag="home-page" position-tag="center-above-footer" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
+               <bannermatrix-banner class="BannerWidgetAboveFooter BannerWidgetColorPack" operator-id="2331" webapi-realm="#" webapi-url="#" page-tag="home-page" position-tag="center-above-footer" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
             </section>
             <aside class="Sidebar Sidebar--Right">
                <div class="Sidebar__Wrapper">
@@ -4084,7 +4084,7 @@
                         </div>
                      </div>
                   </div>
-                  <bannermatrix-banner class="BannerWidgetRightUnderBetslip BannerWidgetColorPack" operator-id="2331" webapi-realm="www.pusulabet.com" webapi-url="wss://sportsapi.pusulabet879.com/v2" page-tag="home-page" position-tag="right-under-betslip" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
+                  <bannermatrix-banner class="BannerWidgetRightUnderBetslip BannerWidgetColorPack" operator-id="2331" webapi-realm="#" webapi-url="#" page-tag="home-page" position-tag="right-under-betslip" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
                   <div class="CustomContent CustomContent--bottom_right_1">
                      <div>
                         <p><img class="lazy" src="/stateless-pusulabet-one/2024/06/9a636160-ust-bar-populer-oyunlar.gif" alt="" width="300" height="40"><br>
