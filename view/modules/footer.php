@@ -339,10 +339,10 @@
                </li>
                <li class="footer-external-logo-item">
                   <span id="ch_3962122940" class="">
-                     <a href="//www.dmca.com" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/DMCA_badge_grn_80w.png?ID=8fa7a79e-d29c-4a71-83ff-08a90565fef4" alt="DMCA.com Protection Status"></a>  <script id="er_486832743" src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js" async=""></script><script id="er_177541"> </script>
+                     <a href="//www.dmca.com" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/DMCA_badge_grn_80w.png?ID=8fa7a79e-d29c-4a71-83ff-08a90565fef4" alt="DMCA.com Protection Status"></a>
                   </span>
                   <span>
-                     <script id="er_486832743" src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"></script><script id="er_177541"> </script>
+                    
                   </span>
                </li>
             </ul>

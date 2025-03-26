@@ -339,18 +339,11 @@
             <li class="footer-external-logo-item">
                <span id="ch_3962122940" class="">
                   <a href="https://www.dmca.com/?refurl=/tr/sports/i" title="DMCA.com Protection Status" class="dmca-badge">
-                     <script type="text/javascript" style="display:none">
-                        //<![CDATA[
-                        window.__mirage2 = {petok:"JYOIKxTNgLB8TguzhdiQpJNRK_eKYSsepsl4Qotfy6I-1800-0.0.1.1"};
-                        //]]>
-                     </script>
-                     <script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/04b3eb47/cloudflare-static/mirage2.min.js"></script>
+                   
                      <img alt="DMCA.com Protection Status" data-cfsrc="https://images.dmca.com/Badges/DMCA_badge_grn_80w.png?ID=8fa7a79e-d29c-4a71-83ff-08a90565fef4" src="https://images.dmca.com/Badges/DMCA_badge_grn_80w.png?ID=8fa7a79e-d29c-4a71-83ff-08a90565fef4">
                   </a>
-                  <script id="er_486832743" src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js" async=""></script><script id="er_177541"> </script>
                </span>
                <span>
-                  <script id="er_486832743" src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"></script><script id="er_177541"> </script>
                </span>
             </li>
          </ul>
